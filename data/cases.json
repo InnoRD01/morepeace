@@ -1,0 +1,4228 @@
+[
+ {
+  "slug": "armenia-armenia-vs-azerbaijan-nagorno-karabakh",
+  "title": "Armenia vs Azerbaijan — Nagorno-Karabakh",
+  "country": "Armenia",
+  "location": "Nakhchivan",
+  "lat": 39.2091,
+  "lng": 45.4126,
+  "startYear": 2020,
+  "endYear": 2025,
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "somalia-bringing-stability-to-somalia-puntland",
+  "title": "Bringing stability to Somalia (Puntland)",
+  "country": "Somalia",
+  "location": "Puntland State of Somalia, Somalia",
+  "lat": 8.4,
+  "lng": 48.4,
+  "startYear": 1991,
+  "endYear": 1998,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Peace infrastructure"
+  ],
+  "summary": "Most of north-east Somalia was spared from the conflicts and famines of the 1990s thanks to the efforts of local people and organisations in Puntland to reduce armed conflict."
+ },
+ {
+  "slug": "ethiopia-containing-conflict-in-ethiopia-tigray",
+  "title": "Containing conflict in Ethiopia (Tigray)",
+  "country": "Ethiopia",
+  "location": "Tigray Region, northern Ethiopia",
+  "lat": 13.8,
+  "lng": 39,
+  "startYear": null,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "south-sudan-containing-the-armed-conflict-between-south-sudan-and-sudan-abyei",
+  "title": "Containing the armed conflict between South Sudan and Sudan (Abyei)",
+  "country": "South Sudan",
+  "location": "Abyei, Sudan",
+  "lat": 9.5966,
+  "lng": 28.4408,
+  "startYear": 2011,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A UN peacekeeping mission has helped to prevent renewed armed conflict in the contested area of Abyei for a decade."
+ },
+ {
+  "slug": "georgia-containing-the-armed-conflict-in-georgia-abkhazia",
+  "title": "Containing the armed conflict in Georgia (Abkhazia)",
+  "country": "Georgia",
+  "location": "Abkhazia, (de jure) Georgia",
+  "lat": 43,
+  "lng": 41,
+  "startYear": 1993,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of international and regional peacekeeping missions have helped to contain the armed conflict in Abkhazia, preventing a conflict relapse that could have sparked much broader regional confrontations."
+ },
+ {
+  "slug": "georgia-containing-the-armed-conflict-in-georgia-south-ossetia-for-16-years",
+  "title": "Containing the armed conflict in Georgia (South Ossetia) for 16 years",
+  "country": "Georgia",
+  "location": "South Ossetia, Georgia (de jure)",
+  "lat": 42.33,
+  "lng": 43.97,
+  "startYear": 1992,
+  "endYear": 2008,
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The armed conflict in South Ossetia was contained between 1992 and 2008 by the deployment of a regional peacekeeping mission."
+ },
+ {
+  "slug": "india-containing-the-armed-conflict-in-kashmir",
+  "title": "Containing the armed conflict in Kashmir",
+  "country": "India",
+  "location": "Kashmir",
+  "lat": 34.0837,
+  "lng": 74.7973,
+  "startYear": 1949,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Military Observer Group in India and Pakistan has helped to prevent a major interstate war between India and Pakistan in Kashmir since 1949."
+ },
+ {
+  "slug": "libya-containing-the-armed-conflict-in-libya",
+  "title": "Containing the armed conflict in Libya",
+  "country": "Libya",
+  "location": "Libya",
+  "lat": 26.3351,
+  "lng": 17.2283,
+  "startYear": null,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "mexico-containing-the-armed-conflict-in-mexico-chiapas",
+  "title": "Containing the armed conflict in Mexico (Chiapas)",
+  "country": "Mexico",
+  "location": "Chiapas (de jure), Mexico",
+  "lat": 16.7569,
+  "lng": -93.1292,
+  "startYear": 1994,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Latin America and the Caribbean",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "Although the conflict between the Zapatista movement and the Government of Mexico has not been resolved, the fighting has been effectively contained since 1997."
+ },
+ {
+  "slug": "moldova-containing-the-armed-conflict-in-moldova-transnistria",
+  "title": "Containing the armed conflict in Moldova (Transnistria)",
+  "country": "Moldova",
+  "location": "Transnistria, (de jure) Moldova",
+  "lat": 47.2,
+  "lng": 29.5,
+  "startYear": 1992,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The peacekeeping efforts of the Joint Control Commission and ongoing talks mediated by the Organisation for Security and Cooperation in Europe has helped to prevent renewed conflict between the Government of Moldova and the administration of the breakaway republic in Transnistria."
+ },
+ {
+  "slug": "armenia-containing-the-armed-conflict-in-nagorno-karabakh",
+  "title": "Containing the armed conflict in Nagorno-Karabakh",
+  "country": "Armenia",
+  "location": "Nargorno-Karabakh",
+  "lat": 39.8918,
+  "lng": 46.75,
+  "startYear": 1994,
+  "endYear": 2025,
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "russia-containing-the-armed-conflict-in-russia-east-prigorodny",
+  "title": "Containing the armed conflict in Russia (East Prigorodny)",
+  "country": "Russia",
+  "location": "East Prigorodny, North Ossetia, Russian Federation",
+  "lat": 43.2,
+  "lng": 44.8,
+  "startYear": 1992,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Ethnic conflicts",
+   "Territorial & border disputes"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Military intervention"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "morocco-containing-the-armed-conflict-in-western-sahara",
+  "title": "Containing the armed conflict in Western Sahara",
+  "country": "Morocco",
+  "location": "Western Sahara",
+  "lat": 24.2155,
+  "lng": -12.8858,
+  "startYear": 1991,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "International transitional administration",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Mission for the Referendum in Western Sahara has helped to prevent renewed armed conflict in Western Sahara since 1991."
+ },
+ {
+  "slug": "drc-drc-internal-eastern-armed-groups",
+  "title": "DRC — internal eastern armed groups",
+  "country": "DRC",
+  "location": null,
+  "lat": -4.0383,
+  "lng": 21.7587,
+  "startYear": null,
+  "endYear": null,
+  "impact": null,
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [],
+  "initiatives": [],
+  "summary": null
+ },
+ {
+  "slug": "cambodia-ending-armed-conflict-in-cambodia",
+  "title": "Ending armed conflict in Cambodia",
+  "country": "Cambodia",
+  "location": "Cambodia",
+  "lat": 12.5657,
+  "lng": 104.991,
+  "startYear": 1987,
+  "endYear": 1991,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Conflicts for political power",
+   "Human rights conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "An October 1991 peace agreement formally ended the armed conflict in Cambodia after decades of devastation, war, and genocide."
+ },
+ {
+  "slug": "uk-ending-armed-conflict-in-the-uk-northern-ireland",
+  "title": "Ending armed conflict in the UK (Northern Ireland)",
+  "country": "UK",
+  "location": "Northern Ireland, United Kingdom of Great Britain and Northern Ireland",
+  "lat": 54.7877,
+  "lng": -6.4923,
+  "startYear": 1997,
+  "endYear": 1998,
+  "impact": "Lasting",
+  "region": "Western Europe and Others",
+  "themes": [
+   "Human rights conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "ethiopia-ending-the-armed-conflict-between-communities-in-ethiopia-and-kenya",
+  "title": "Ending the armed conflict between communities in Ethiopia and Kenya",
+  "country": "Ethiopia",
+  "location": "Ethiopia",
+  "lat": 9.145,
+  "lng": 40.4897,
+  "startYear": 2004,
+  "endYear": 2017,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Herder–farmer conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "The 2005-2009 conflict between the Gabra and Borana communities on the Ethipia/Kenya border was ended, stabilising the frontier, and reducing the likelihood of further conflict."
+ },
+ {
+  "slug": "georgia-ending-the-armed-conflict-between-georgia-and-russia",
+  "title": "Ending the armed conflict between Georgia and Russia",
+  "country": "Georgia",
+  "location": "Georgia",
+  "lat": 42.3154,
+  "lng": 43.3569,
+  "startYear": 2008,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "Negotiations hosted by the EU ended the 2008 interstate conflict between Georgia and Russia in five days."
+ },
+ {
+  "slug": "albania-ending-the-armed-conflict-in-albania",
+  "title": "Ending the armed conflict in Albania",
+  "country": "Albania",
+  "location": "Albania",
+  "lat": 41.1533,
+  "lng": 20.1683,
+  "startYear": 1997,
+  "endYear": 1997,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The Multinational Protection Force, an Italian-led peacekeeping mission mandated by the UN to restore order in Albania in 1997, succeeded in ending the armed conflict and restoring stability to Albania following a severe political crisis."
+ },
+ {
+  "slug": "angola-ending-the-armed-conflict-in-angola",
+  "title": "Ending the armed conflict in Angola",
+  "country": "Angola",
+  "location": "Angola",
+  "lat": -11.2027,
+  "lng": 17.8739,
+  "startYear": 2001,
+  "endYear": 2002,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "An agreement negotiated by the belligerents ended the conflict in Angola."
+ },
+ {
+  "slug": "bangladesh-ending-the-armed-conflict-in-bangladesh",
+  "title": "Ending the armed conflict in Bangladesh",
+  "country": "Bangladesh",
+  "location": "Chittagong Hill Tracts, Chittagong Division, Bangladesh",
+  "lat": 22.6667,
+  "lng": 92.2,
+  "startYear": 1992,
+  "endYear": 1997,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Conflicts for political power",
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The Chittagong Hill Tracts Peace Accord brought an end to two decades of armed conflict and formally recognised the special status of the indigenous population."
+ },
+ {
+  "slug": "bosnia-and-herzegovina-ending-the-armed-conflict-in-bosnia-and-herzegovina",
+  "title": "Ending the armed conflict in Bosnia and Herzegovina",
+  "country": "Bosnia and Herzegovina",
+  "location": "Bosnia and Herzegovina",
+  "lat": 43.9159,
+  "lng": 17.6791,
+  "startYear": 1994,
+  "endYear": 1995,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The Government of the USA successfully mediated a series of peace agreements which ended the multifaceted armed conflict in Bosnia and Herzegovina during the collapse of Yugoslavia in the 1990s."
+ },
+ {
+  "slug": "burundi-ending-the-armed-conflict-in-burundi",
+  "title": "Ending the armed conflict in Burundi",
+  "country": "Burundi",
+  "location": "Burundi",
+  "lat": -3.3731,
+  "lng": 29.9189,
+  "startYear": 2000,
+  "endYear": 2006,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "International mediation efforts led by South African President Nelson Mandela and the deployment of African Union and UN peacekeepers helped to end the war in Burundi after 13 years of armed conflict."
+ },
+ {
+  "slug": "chad-chad-ending-the-armed-conflict-in-chad-doha-agreement",
+  "title": "Ending the armed conflict in Chad (Doha Agreement)",
+  "country": "Chad",
+  "location": "Chad",
+  "lat": 15.4542,
+  "lng": 18.7322,
+  "startYear": 2022,
+  "endYear": 2024,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "colombia-ending-the-armed-conflict-in-colombia",
+  "title": "Ending the armed conflict in Colombia",
+  "country": "Colombia",
+  "location": "Colombia",
+  "lat": 4.5709,
+  "lng": -74.2973,
+  "startYear": 2012,
+  "endYear": 2016,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The armed conflict in Colombia was finally ended after 52 years by the signing of a peace agreement during negotiations mediated by a host of national governments and intergovernmental organisations."
+ },
+ {
+  "slug": "comoros-ending-the-armed-conflict-in-comoros",
+  "title": "Ending the armed conflict in Comoros",
+  "country": "Comoros",
+  "location": "Comoros",
+  "lat": -11.6455,
+  "lng": 43.3333,
+  "startYear": 1997,
+  "endYear": 2003,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The Organisation of African Unity-led diplomatic intervention helped to end the armed conflict in Comoros after several rounds of talks culminated with the creation of a federal Comorian state."
+ },
+ {
+  "slug": "croatia-ending-the-armed-conflict-in-croatia",
+  "title": "Ending the armed conflict in Croatia",
+  "country": "Croatia",
+  "location": "Croatia",
+  "lat": 45.1,
+  "lng": 15.2,
+  "startYear": 1995,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement",
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The Contact Group (composed of Russia, EU, USA, and UN) successfully mediated the negotiation of the Basic Agreement on the Region of Eastern Slavonia, Baranja and Western Sirmium, which ended the armed conflict in Croatia during the collapse of Yugoslavia."
+ },
+ {
+  "slug": "cote-d-ivoire-ending-the-armed-conflict-in-cote-d-ivoire",
+  "title": "Ending the armed conflict in Côte d’Ivoire",
+  "country": "Côte d’Ivoire",
+  "location": "Côte d’Ivoire",
+  "lat": 7.54,
+  "lng": -5.5471,
+  "startYear": 2007,
+  "endYear": 2017,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Military intervention",
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of international peacekeeping missions helped to contain the conflict in Côte d’Ivoire until a French/UN 2011 Military intervention definitively ended the conflict."
+ },
+ {
+  "slug": "democratic-republic-of-congo-ending-the-armed-conflict-in-democratic-republic-of-congo",
+  "title": "Ending the armed conflict in Democratic Republic of Congo",
+  "country": "Democratic Republic of Congo",
+  "location": "Democratic Republic of Congo",
+  "lat": -4.0383,
+  "lng": 21.7587,
+  "startYear": 2002,
+  "endYear": 2003,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "The Second Congo War (1998-2003) was ended by negotiations hosted by the South African government and the deployment of UN peacekeepers."
+ },
+ {
+  "slug": "djibouti-ending-the-armed-conflict-in-djibouti",
+  "title": "Ending the armed conflict in Djibouti",
+  "country": "Djibouti",
+  "location": "Djibouti",
+  "lat": 11.8251,
+  "lng": 42.5903,
+  "startYear": 1991,
+  "endYear": 2001,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of peace agreements mediated by the Government of France ended the armed conflict in Djibouti and French peacekeepers helped to verify implementation."
+ },
+ {
+  "slug": "el-salvador-ending-the-armed-conflict-in-el-salvador",
+  "title": "Ending the armed conflict in El Salvador",
+  "country": "El Salvador",
+  "location": "El Salvador",
+  "lat": 13.7942,
+  "lng": -88.8965,
+  "startYear": 1986,
+  "endYear": 1992,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "After 12 years of devastating civil war, the armed conflict in El Salvador was finally ended after negotiations mediated by the UN culminated with the signing of the Chapultepec Peace Accords in 1992."
+ },
+ {
+  "slug": "ethiopia-ending-the-armed-conflict-in-ethiopia-somali-region",
+  "title": "Ending the armed conflict in Ethiopia (Somali Region)",
+  "country": "Ethiopia",
+  "location": "Somali Region, Ethiopia",
+  "lat": 7,
+  "lng": 43,
+  "startYear": 2018,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The long-running armed conflict in the Somali Region of Ethiopia was ended by a peace agreement mediated with support from Conciliation Resources."
+ },
+ {
+  "slug": "ghana-ending-the-armed-conflict-in-ghana-northern-region",
+  "title": "Ending the armed conflict in Ghana (Northern Region)",
+  "country": "Ghana",
+  "location": "Northern Region, Ghana",
+  "lat": 9.5,
+  "lng": -0.8,
+  "startYear": 1994,
+  "endYear": 1996,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Military intervention"
+  ],
+  "summary": "The Guinea Fowl War in the Northern Region of Ghana was ended by the deployment of troops and the mediation of a peace agreement."
+ },
+ {
+  "slug": "guatemala-ending-the-armed-conflict-in-guatemala",
+  "title": "Ending the armed conflict in Guatemala",
+  "country": "Guatemala",
+  "location": "Guatemala",
+  "lat": 15.7835,
+  "lng": -90.2308,
+  "startYear": 1994,
+  "endYear": 1996,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Negotiations mediated by the UN resulted in the signing of the Accord for a Firm and Lasting Peace in 1996, ending the armed conflict in Guatemala after 36 years."
+ },
+ {
+  "slug": "guinea-bissau-ending-the-armed-conflict-in-guinea-bissau",
+  "title": "Ending the armed conflict in Guinea-Bissau",
+  "country": "Guinea-Bissau",
+  "location": "Guinea",
+  "lat": 11.8037,
+  "lng": -15.1804,
+  "startYear": 1998,
+  "endYear": 1999,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "india-ending-the-armed-conflict-in-india-bodoland",
+  "title": "Ending the armed conflict in India (Bodoland)",
+  "country": "India",
+  "location": "Bodoland Territorial Region, Assam, India",
+  "lat": 26.5,
+  "lng": 91,
+  "startYear": 1993,
+  "endYear": 2023,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements",
+   "Territorial & border disputes"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "The armed conflict between Bodo armed groups and Indian security services in Assam was finally ended in 2020 after several attempts to find a negotiated settlement."
+ },
+ {
+  "slug": "india-ending-the-armed-conflict-in-india-mizoram",
+  "title": "Ending the armed conflict in India (Mizoram)",
+  "country": "India",
+  "location": "Mizoram, India",
+  "lat": 23.1645,
+  "lng": 92.9376,
+  "startYear": 1986,
+  "endYear": 2020,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The armed conflicts in Mizoram, India, were ended after a lengthy negotiation process between armed groups and the Government of India."
+ },
+ {
+  "slug": "india-ending-the-armed-conflict-in-india-nagaland",
+  "title": "Ending the armed conflict in India (Nagaland)",
+  "country": "India",
+  "location": "Nagaland, India",
+  "lat": 26.1584,
+  "lng": 94.5624,
+  "startYear": 1995,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements",
+   "Territorial & border disputes"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict with foreign involvement",
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions",
+   "Stabilising international borders"
+  ],
+  "summary": "An ongoing peace process effectively contained the armed conflict in Nagaland for 14 years until a more comprehensive settlement was reached in 2015; some militants hold out for a better agreement."
+ },
+ {
+  "slug": "india-ending-the-armed-conflict-in-india-tripura",
+  "title": "Ending the armed conflict in India (Tripura)",
+  "country": "India",
+  "location": "Tripura, India",
+  "lat": 23.9408,
+  "lng": 91.9882,
+  "startYear": 1993,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Ethnic conflicts",
+   "Nationalism & independence movements",
+   "Territorial & border disputes"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "The armed conflict in Tripura between the Indian government and Tripuri armed groups was ended by a series of negotiated settlements with several armed opposition groups and the stabilisation of the international border."
+ },
+ {
+  "slug": "india-ending-the-armed-conflict-in-india-ulfa",
+  "title": "Ending the armed conflict in India (ULFA)",
+  "country": "India",
+  "location": "Assam, India",
+  "lat": 26.2006,
+  "lng": 92.9376,
+  "startYear": 1990,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Territorial & border disputes"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Local action",
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "A gradual peace process has reduced the scale of the armed conflict in Assam, with only a recalcitrant hard-line faction of rebels persisting after the rest of the organisation disbanded following a 2023 peace agreement."
+ },
+ {
+  "slug": "indonesia-ending-the-armed-conflict-in-indonesia-aceh",
+  "title": "Ending the armed conflict in Indonesia (Aceh)",
+  "country": "Indonesia",
+  "location": "Aceh, Indonesia",
+  "lat": 4.6951,
+  "lng": 96.7494,
+  "startYear": 2004,
+  "endYear": 2005,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The International Monitoring Presence and the Aceh Monitoring Mission helped to prevent a conflict relapse in the Indonesian province of Aceh."
+ },
+ {
+  "slug": "indonesia-ending-the-armed-conflict-in-indonesia-central-sulawesi",
+  "title": "Ending the armed conflict in Indonesia (Central Sulawesi)",
+  "country": "Indonesia",
+  "location": "Poso, Central Sulawesi, Indonesia",
+  "lat": -1.3959,
+  "lng": 120.7517,
+  "startYear": 2001,
+  "endYear": 2002,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Military intervention"
+  ],
+  "summary": "The intercommunal violence in Central Sulawesi was ended by an Indonesian military deployment and the mediation of a peace agreement."
+ },
+ {
+  "slug": "indonesia-ending-the-armed-conflict-in-indonesia-maluku",
+  "title": "Ending the armed conflict in Indonesia (Maluku)",
+  "country": "Indonesia",
+  "location": "Maluku, Indonesia",
+  "lat": -3.2385,
+  "lng": 130.1453,
+  "startYear": 2002,
+  "endYear": 2004,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Military intervention"
+  ],
+  "summary": "The armed conflict in Maluku was ended by an Indonesian military operation and the mediation of a peace agreement."
+ },
+ {
+  "slug": "indonesia-ending-the-armed-conflict-in-indonesia-north-maluku",
+  "title": "Ending the armed conflict in Indonesia (North Maluku)",
+  "country": "Indonesia",
+  "location": "North Maluku, Indonesia",
+  "lat": 1.5709,
+  "lng": 127.8087,
+  "startYear": 2000,
+  "endYear": 2003,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Military intervention"
+  ],
+  "summary": "The deployment of Indonesian security forces to North Maluku ended the intercommunal conflict and prevented further fighting."
+ },
+ {
+  "slug": "kenya-ending-the-armed-conflict-in-kenya-wajir",
+  "title": "Ending the armed conflict in Kenya (Wajir)",
+  "country": "Kenya",
+  "location": "Wajir County, North Eastern Province, Kenya",
+  "lat": 1.7471,
+  "lng": 40.0573,
+  "startYear": 1993,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement",
+   "Peace infrastructure"
+  ],
+  "summary": "The armed conflict between clans in Wajir County, Kenya, was ended in 1993."
+ },
+ {
+  "slug": "kosovo-ending-the-armed-conflict-in-kosovo",
+  "title": "Ending the armed conflict in Kosovo",
+  "country": "Kosovo",
+  "location": "Kosovo",
+  "lat": 42.6026,
+  "lng": 20.903,
+  "startYear": 1999,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Military intervention"
+  ],
+  "summary": "A direct Military intervention by the North Atlantic Treaty Organisation ended the armed conflict in Kosovo during the collapse of Yugoslavia."
+ },
+ {
+  "slug": "liberia-ending-the-armed-conflict-in-liberia",
+  "title": "Ending the armed conflict in Liberia",
+  "country": "Liberia",
+  "location": "Liberia",
+  "lat": 6.4281,
+  "lng": -9.4295,
+  "startYear": 2003,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "After 14 years of armed conflict and instability, the war in Liberia was finally ended by the Accra Comprehensive Peace Agreement on 18 August 2003."
+ },
+ {
+  "slug": "mali-ending-the-armed-conflict-in-mali-kidal-region",
+  "title": "Ending the armed conflict in Mali (Kidal region)",
+  "country": "Mali",
+  "location": "Kidal Region, Mali",
+  "lat": 18.4411,
+  "lng": 1.4078,
+  "startYear": 2006,
+  "endYear": 2009,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Mediation by the governments of Algeria and Libya helped to establish a framework to end the Third Tuareg Rebellion in Mali, but the conflict itself was ended by talks hosted by local politicians."
+ },
+ {
+  "slug": "mali-ending-the-armed-conflict-in-mali-second-tuareg-rebellion",
+  "title": "Ending the armed conflict in Mali (Second Tuareg Rebellion)",
+  "country": "Mali",
+  "location": "Kidal Region, Mali",
+  "lat": 18.4411,
+  "lng": 1.4078,
+  "startYear": 1990,
+  "endYear": 1996,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Mediation by the Government of Algeria resulted in a ceasefire, allowing local people and organisations in Mali to participate in a peace process which ended the Second Tuareg Rebellion in the early 1990s. Ending the armed conflict in Mali (Second Tuareg Rebellion)"
+ },
+ {
+  "slug": "mozambique-ending-the-armed-conflict-in-mozambique",
+  "title": "Ending the armed conflict in Mozambique",
+  "country": "Mozambique",
+  "location": "Mozambique",
+  "lat": -18.6657,
+  "lng": 35.5296,
+  "startYear": 1989,
+  "endYear": 1992,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Negotiations hosted by the Community of Sant’Egidio in Rome concluded with the signing of the General Peace Agreement, which ended the armed conflict in Mozambique after three decades of near-continuous war."
+ },
+ {
+  "slug": "nepal-ending-the-armed-conflict-in-nepal",
+  "title": "Ending the armed conflict in Nepal",
+  "country": "Nepal",
+  "location": "Nepal",
+  "lat": 28.3949,
+  "lng": 84.124,
+  "startYear": 2005,
+  "endYear": 2006,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Cultural / ideological conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Nepalese political parties worked together with widespread public support to find a political solution to the ongoing armed conflict in Nepal and mediate the negotiation of the Comprehensive Peace Agreement, which brought an end to a decade of war and created the framework for a lasting peace."
+ },
+ {
+  "slug": "nicaragua-ending-the-armed-conflict-in-nicaragua",
+  "title": "Ending the armed conflict in Nicaragua",
+  "country": "Nicaragua",
+  "location": "Nicaragua",
+  "lat": 12.8654,
+  "lng": -85.2072,
+  "startYear": 1986,
+  "endYear": 1990,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of peace agreements mediated by regional governments and the deployment of the United Nations Observer Group in Central America helped to end the armed conflict in Nicaragua in 1990."
+ },
+ {
+  "slug": "nicaragua-ending-the-armed-conflict-in-nicaragua-fn-3-80",
+  "title": "Ending the armed conflict in Nicaragua (FN 3-80)",
+  "country": "Nicaragua",
+  "location": "Nicaragua",
+  "lat": 12.8654,
+  "lng": -85.2072,
+  "startYear": 1994,
+  "endYear": 1997,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The Frente Norte 3-80 insurgency was ended in Nicaragua by a peace agreement and it's personnel were disarmed."
+ },
+ {
+  "slug": "niger-ending-the-armed-conflict-in-niger",
+  "title": "Ending the armed conflict in Niger",
+  "country": "Niger",
+  "location": "Agadez, Niger",
+  "lat": 16.9738,
+  "lng": 7.9903,
+  "startYear": 1993,
+  "endYear": 1997,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The 1991-1997 Tuareg rebellion in Niger was ended by a series of peace agreements, heralding a decade of relative peace in the country."
+ },
+ {
+  "slug": "niger-ending-the-armed-conflict-in-niger-2009-2010",
+  "title": "Ending the armed conflict in Niger (2009-2010)",
+  "country": "Niger",
+  "location": "Niger",
+  "lat": 17.6078,
+  "lng": 8.0817,
+  "startYear": 2009,
+  "endYear": 2010,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The third Tuareg rebellion ( 2007-2009 ) in Niger was ended with a peace agreement mediated by the government of Libya."
+ },
+ {
+  "slug": "nigeria-ending-the-armed-conflict-in-nigeria-kaduna-state",
+  "title": "Ending the armed conflict in Nigeria (Kaduna State)",
+  "country": "Nigeria",
+  "location": "Kafanchan, Kaduna State, Nigeria",
+  "lat": 9.5804,
+  "lng": 8.3007,
+  "startYear": 2015,
+  "endYear": 2016,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power",
+   "Ethnic conflicts",
+   "Herder–farmer conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peace infrastructure"
+  ],
+  "summary": "The efforts of local people and organisations, the local administration, and the Centre for Humanitarian Dialogue helped to bring 29 communities affected by armed conflict together and create a peace agreement and an infrastructure to support and monitor implementation."
+ },
+ {
+  "slug": "nigeria-ending-the-armed-conflict-in-nigeria-plateau-state",
+  "title": "Ending the armed conflict in Nigeria (Plateau State)",
+  "country": "Nigeria",
+  "location": "Plateau State, Nigeria",
+  "lat": 9.2182,
+  "lng": 9.5179,
+  "startYear": 2013,
+  "endYear": 2020,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Military intervention",
+   "Peace infrastructure"
+  ],
+  "summary": "A Military intervention by the Nigerian military helped to contain intercommunal violence in Plateau State until the Centre for Humanitarian Dialogue mediated a peace agreement which ended the fighting and helped create a peace infrastructure to continue its work and prevent a conflict relapse."
+ },
+ {
+  "slug": "papua-new-guinea-ending-the-armed-conflict-in-papua-new-guinea-bougainville",
+  "title": "Ending the armed conflict in Papua New Guinea (Bougainville)",
+  "country": "Papua New Guinea",
+  "location": "Autonomous Region of Bougainville, (de jure) Papua New Guinea",
+  "lat": -6.2159,
+  "lng": 155.0788,
+  "startYear": 1994,
+  "endYear": 2001,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Nationalism & independence movements",
+   "Resource & environmental conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The armed conflict in Bougainville was ended after a decade of fighting by the deployment of a series of regionally led peacekeeping missions and negotiations."
+ },
+ {
+  "slug": "philippines-ending-the-armed-conflict-in-philippines-mindanao-milf",
+  "title": "Ending the armed conflict in Philippines (Mindanao – MILF)",
+  "country": "Philippines",
+  "location": "Mindanao, Philippines",
+  "lat": 7.5,
+  "lng": 125,
+  "startYear": 2003,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions",
+   "Peace infrastructure"
+  ],
+  "summary": "Lengthy negotiations mediated by the International Contact Group (composed of four governments and four NGOS), supported by international monitoring missions and local peace infrastructure, helped to end the armed conflict on Mindanao."
+ },
+ {
+  "slug": "philippines-ending-the-armed-conflict-in-philippines-mindanao-mnlf",
+  "title": "Ending the armed conflict in Philippines (Mindanao – MNLF)",
+  "country": "Philippines",
+  "location": "Mindanao, Philippines",
+  "lat": 7.5,
+  "lng": 125,
+  "startYear": 1992,
+  "endYear": 1996,
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peace infrastructure"
+  ],
+  "summary": "Negotiations mediated by the Organisation of Islamic Conference (OIC) and the governments of Indonesia and Libya, and supported by an OIC Joint Ceasefire Commission, ended the armed conflict between the Government of the Philippines and the Moro National Liberation Front in 1996."
+ },
+ {
+  "slug": "philippines-ending-the-armed-conflict-in-philippines-mindanao-rwp-m",
+  "title": "Ending the armed conflict in Philippines (Mindanao – RWP-M)",
+  "country": "Philippines",
+  "location": "Iligan City, Mindanao, Philippines",
+  "lat": 8.228,
+  "lng": 124.2452,
+  "startYear": 2002,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Negotiations mediated by the local NGO Balay Mindanaw stopped the fighting between the Revolutionary Workers’ Party – Mindanao and the Government of Philippines in 2005 and ongoing efforts, although unable to produce a peace agreement, have prevented further conflict."
+ },
+ {
+  "slug": "republic-of-congo-ending-the-armed-conflict-in-republic-of-congo-2016-2017",
+  "title": "Ending the armed conflict in Republic of Congo (2016-2017)",
+  "country": "Republic of Congo",
+  "location": "Republic of Congo",
+  "lat": -0.228,
+  "lng": 15.8277,
+  "startYear": 2016,
+  "endYear": 2017,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The ceasefire and cessation of hostilities agreements ended the Ninja insurgency in the Pool region, while a comprehensive Disarmament, Demobilization and Reintegration programme has helped to stabilise the area."
+ },
+ {
+  "slug": "russia-ending-the-armed-conflict-in-russia-chechnya",
+  "title": "Ending the armed conflict in Russia (Chechnya)",
+  "country": "Russia",
+  "location": "Chechen Republic, Russia",
+  "lat": 43.3179,
+  "lng": 45.6981,
+  "startYear": 2000,
+  "endYear": 2009,
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": "The diplomatic manoeuvrings of the Government of Russia ended the war in Chechnya after a decade of conflict."
+ },
+ {
+  "slug": "senegal-ending-the-armed-conflict-in-senegal-casamance",
+  "title": "Ending the armed conflict in Senegal (Casamance)",
+  "country": "Senegal",
+  "location": "Casamance, Senegal",
+  "lat": 12.75,
+  "lng": -15.5,
+  "startYear": 2012,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "A settlement to the conflict is in its final stages of being concluded, thanks to mediation by organisations such as the Centre for Humanitarian Dialogue and the Community of Sant'Egidio"
+ },
+ {
+  "slug": "sierra-leone-ending-the-armed-conflict-in-sierra-leone",
+  "title": "Ending the armed conflict in Sierra Leone",
+  "country": "Sierra Leone",
+  "location": "Sierra Leone",
+  "lat": 8.4606,
+  "lng": -11.7799,
+  "startYear": 1999,
+  "endYear": 2001,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Military intervention",
+   "Peacekeeping mission"
+  ],
+  "summary": "The war in Sierra Leone was ended and constitutional rule was re-established by a British Military intervention in support of a UN peacekeeping mission after over a decade of conflict and devastation."
+ },
+ {
+  "slug": "slovenia-ending-the-armed-conflict-in-slovenia",
+  "title": "Ending the armed conflict in Slovenia",
+  "country": "Slovenia",
+  "location": "Slovenia",
+  "lat": 46.1512,
+  "lng": 14.9955,
+  "startYear": 1991,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The mediation efforts of the European Community and the deployment of the European Community Monitoring Mission helped to end the armed conflict in Slovenia after ten days of fighting, preventing a much larger conflict."
+ },
+ {
+  "slug": "south-africa-ending-the-armed-conflict-in-south-africa",
+  "title": "Ending the armed conflict in South Africa",
+  "country": "South Africa",
+  "location": "South Africa",
+  "lat": -30.5595,
+  "lng": 22.9375,
+  "startYear": 1990,
+  "endYear": 1993,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict",
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The armed conflict between the African National Congress (ANC) and the Government of South Africa was ended and the risk of a larger war was minimised."
+ },
+ {
+  "slug": "south-africa-ending-the-armed-conflict-in-south-africa-natal",
+  "title": "Ending the armed conflict in South Africa (Natal)",
+  "country": "South Africa",
+  "location": "KwaZulu",
+  "lat": -28.5,
+  "lng": 31.4,
+  "startYear": 1992,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The armed conflict between the ANC and Inkatha/IFP in the South African province of Natal during the end of apartheid was ended."
+ },
+ {
+  "slug": "south-sudan-ending-the-armed-conflict-in-south-sudan",
+  "title": "Ending the armed conflict in South Sudan",
+  "country": "South Sudan",
+  "location": "South Sudan",
+  "lat": 6.877,
+  "lng": 31.307,
+  "startYear": 2015,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peace infrastructure",
+   "Peacekeeping mission"
+  ],
+  "summary": "The mediation efforts of a wide range of international actors and the protestations of the Pope helped to end the armed conflict in South Sudan in 2018."
+ },
+ {
+  "slug": "spain-ending-the-armed-conflict-in-spain",
+  "title": "Ending the armed conflict in Spain",
+  "country": "Spain",
+  "location": "Basque Country",
+  "lat": 43,
+  "lng": -2.6,
+  "startYear": 2011,
+  "endYear": 2017,
+  "impact": "Lasting",
+  "region": "Western Europe and Others",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Other"
+  ],
+  "summary": "The work of international NGOs helped to end the conflict between the Government of Spain and the Basque separatist movement, ETA."
+ },
+ {
+  "slug": "suriname-ending-the-armed-conflict-in-suriname",
+  "title": "Ending the armed conflict in Suriname",
+  "country": "Suriname",
+  "location": "Suriname",
+  "lat": 3.9193,
+  "lng": -56.0278,
+  "startYear": 1989,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The mediation of a peace agreement and the deployment of a monitoring mission to verify implementation of its terms by the Organisation of American States ended the armed conflict in Suriname."
+ },
+ {
+  "slug": "tajikistan-ending-the-armed-conflict-in-tajikistan",
+  "title": "Ending the armed conflict in Tajikistan",
+  "country": "Tajikistan",
+  "location": "Tajikistan",
+  "lat": 38.861,
+  "lng": 71.2761,
+  "startYear": 1994,
+  "endYear": 1997,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of multilateral peacekeeping and monitoring missions and the mediation efforts of the UN and the Inter-Tajik Dialogue helped to bring an end to the intrastate armed conflict in Tajikistan in 1997."
+ },
+ {
+  "slug": "philippines-ending-the-armed-conflict-in-the-philippines-cordillera",
+  "title": "Ending the armed conflict in the Philippines (Cordillera)",
+  "country": "Philippines",
+  "location": "Cordillera, Philippines",
+  "lat": 17.35,
+  "lng": 121.17,
+  "startYear": 1986,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The peace process between the Government of the Philippines and the Cordillera People's Liberation Army that began in 1986 reached a formal peace agreement in 2011 which continues to be implemented with oversight from a monitoring committee."
+ },
+ {
+  "slug": "republic-of-congo-ending-the-armed-conflict-in-the-republic-of-congo-1994-1999",
+  "title": "Ending the armed conflict in the Republic of Congo (1994-1999)",
+  "country": "Republic of Congo",
+  "location": "Republic of Congo",
+  "lat": -0.228,
+  "lng": 15.8277,
+  "startYear": 1994,
+  "endYear": 1999,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "A series of peace agreements mediated by the Government of Gabon brought an end to the armed conflict that engulfed the Republic of Congo during the 1990s."
+ },
+ {
+  "slug": "timor-leste-ending-the-armed-conflict-in-timor-leste",
+  "title": "Ending the armed conflict in Timor-Leste",
+  "country": "Timor-Leste",
+  "location": "Timor-Leste",
+  "lat": -8.8742,
+  "lng": 125.7275,
+  "startYear": 1999,
+  "endYear": 2000,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Military intervention"
+  ],
+  "summary": "A multilateral Military intervention led by Australia brought an end to the armed conflict in Timor-Leste in 2000 after decades of instability and war."
+ },
+ {
+  "slug": "uganda-ending-the-armed-conflict-in-uganda-west-nile",
+  "title": "Ending the armed conflict in Uganda (West Nile)",
+  "country": "Uganda",
+  "location": "West Nile, Northern Region, Uganda",
+  "lat": 2.8,
+  "lng": 31.3,
+  "startYear": 1998,
+  "endYear": 2002,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The ongoing insurgency in northern Uganda was ended with a peace agreement."
+ },
+ {
+  "slug": "south-sudan-ending-the-conflict-in-sudan-south-sudan",
+  "title": "Ending the conflict in Sudan (South Sudan)",
+  "country": "South Sudan",
+  "location": "Sudan and South Sudan",
+  "lat": 10,
+  "lng": 30,
+  "startYear": 2002,
+  "endYear": 2011,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The 50-year conflict between northern and southern Sudan was ended by the 2005 Comprehensive Peace Agreement, which paved the way for South Sudanese independence."
+ },
+ {
+  "slug": "ecuador-ending-the-interstate-conflict-between-ecuador-and-peru",
+  "title": "Ending the interstate conflict between Ecuador and Peru",
+  "country": "Ecuador",
+  "location": "Ecuador",
+  "lat": -1.8312,
+  "lng": -78.1834,
+  "startYear": 1995,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The mediation of four regional governments (the Guarantors of the Rio De Janeiro Protocol) led by Brazil ended the interstate conflict between Ecuador and Peru in 1995 after just over one month of fighting."
+ },
+ {
+  "slug": "eritrea-ending-the-interstate-conflict-between-eritrea-and-ethiopia",
+  "title": "Ending the interstate conflict between Eritrea and Ethiopia",
+  "country": "Eritrea",
+  "location": "Badme, Gash",
+  "lat": 14.4333,
+  "lng": 36.5833,
+  "startYear": 1998,
+  "endYear": 2000,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "The war between Eritrea and Ethiopia was ended by mediation efforts led by the Organisation of African Unity during negotiations held in Algeria and the deployment of the United Nations Mission in Ethiopia and Eritrea (UNMEE) to the region."
+ },
+ {
+  "slug": "iraq-ending-the-kurdish-civil-war-in-iraq",
+  "title": "Ending the Kurdish Civil War in Iraq",
+  "country": "Iraq",
+  "location": "Kurdish Region, Iraq",
+  "lat": 36.3,
+  "lng": 44,
+  "startYear": 1995,
+  "endYear": 1999,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The Washington Agreement ended a four-year armed conflict between the Kurdistan Democratic Party and the Patriotic Union of Kurdistan in Iraqi Kurdistan during the 1990s."
+ },
+ {
+  "slug": "chad-ending-the-proxy-conflict-between-chad-and-sudan",
+  "title": "Ending the proxy conflict between Chad and Sudan",
+  "country": "Chad",
+  "location": "Chad",
+  "lat": 15.4542,
+  "lng": 18.7322,
+  "startYear": 2006,
+  "endYear": 2010,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Interstate conflicts",
+   "Proxy wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "A peace agreement mediated by the Government of Senegal helped to end years of proxy conflict between the governments of Chad and Sudan and reduce the risk of a major interstate conflict between them."
+ },
+ {
+  "slug": "soviet-union-ensuring-that-the-collapse-of-the-soviet-union-remained-peaceful",
+  "title": "Ensuring that the collapse of the Soviet Union remained peaceful",
+  "country": "Soviet Union",
+  "location": "Moscow, Russian Federation",
+  "lat": 55.7558,
+  "lng": 37.6173,
+  "startYear": 1985,
+  "endYear": 1991,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of a vertical (state-based) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "A potentially volatile collapse of the Soviet Union took place peacefully thanks to the measured response of the Soviet leadership and the presence of international mechanisms that prevented instability and uncertainty from escalating into armed conflict."
+ },
+ {
+  "slug": "namibia-keeping-the-peace-and-building-stability-in-namibia",
+  "title": "Keeping the peace and building stability in Namibia",
+  "country": "Namibia",
+  "location": "Namibia",
+  "lat": -22.9576,
+  "lng": 18.4904,
+  "startYear": 1989,
+  "endYear": 1990,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "International transitional administration",
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Transition Assistance Group helped to ensure that the withdrawal of South African troops and broader post-conflict transition of the newly independent Namibian state was peaceful."
+ },
+ {
+  "slug": "solomon-islands-keeping-the-peace-in-solomon-islands",
+  "title": "Keeping the peace in Solomon Islands",
+  "country": "Solomon Islands",
+  "location": "Solomon Islands",
+  "lat": -9.6457,
+  "lng": 160.1562,
+  "startYear": 2001,
+  "endYear": 2017,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The International Peace Monitoring Team, Peace Monitoring Council, and Regional Assistance Mission to Solomon Islands helped to prevent armed conflict in Solomon Islands after the unrest of 1999-2000."
+ },
+ {
+  "slug": "somalia-keeping-the-peace-in-somalia-puntland",
+  "title": "Keeping the peace in Somalia (Puntland)",
+  "country": "Somalia",
+  "location": "Puntland State of Somalia, Somalia",
+  "lat": 8.4,
+  "lng": 48.4,
+  "startYear": 1998,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Local action",
+   "Peace infrastructure"
+  ],
+  "summary": "Puntland has enjoyed relative peace while conflict has continued across most of Somalia."
+ },
+ {
+  "slug": "cyprus-keeping-the-peace-on-cyprus",
+  "title": "Keeping the peace on Cyprus",
+  "country": "Cyprus",
+  "location": "Cyprus",
+  "lat": 35.1264,
+  "lng": 33.4299,
+  "startYear": 1964,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Nationalism & independence movements",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse",
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Peacekeeping Force in Cyprus has worked to keep the peace between the Turkish-held north and the rest of Cyprus since 1964."
+ },
+ {
+  "slug": "lebanon-maintaining-stability-and-containing-armed-conflict-in-lebanon",
+  "title": "Maintaining Stability and Containing Armed Conflict in Lebanon",
+  "country": "Lebanon",
+  "location": "Lebanon",
+  "lat": 33.8547,
+  "lng": 35.8623,
+  "startYear": 1978,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Interim Force in Lebanon (UNIFIL), established in 1978 and constrained throughout by a Chapter VI mandate giving it no enforcement powers, provided intermittent stability in southern Lebanon but was unable to prevent Hezbollah's military entrenchment in its area of operations, the 2024 Israel–Hezbollah war, or a renewed major conflict in 2026. The Security Council's decision to terminate the mission by 2027 coincides with the first direct Israel-Lebanon peace negotiations since 1983, leaving the future security framework for southern Lebanon unresolved."
+ },
+ {
+  "slug": "colombia-mitigating-the-impact-of-armed-conflict-in-colombia",
+  "title": "Mitigating the impact of armed conflict in Colombia",
+  "country": "Colombia",
+  "location": "San Jose de Apartado, Urab",
+  "lat": 7.8167,
+  "lng": -76.6167,
+  "startYear": 1994,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Latin America and the Caribbean",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action"
+  ],
+  "summary": "Peace communities created by local people caught in the crossfire during the armed conflict in Colombia (and accompanied by Peace Brigades International since 1997) have helped to mitigate the impact of the fighting on civilians."
+ },
+ {
+  "slug": "philippines-mitigating-the-impact-of-armed-conflict-on-civilians-in-the-philippines",
+  "title": "Mitigating the impact of armed conflict on civilians in the Philippines",
+  "country": "Philippines",
+  "location": "Municipality of Sagada, Cordillera, Philippines",
+  "lat": 17.0833,
+  "lng": 120.9,
+  "startYear": 1986,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action"
+  ],
+  "summary": "By creating and maintaining zones of peace, local people and organisations reduced the impact of armed conflict on the civilian population."
+ },
+ {
+  "slug": "russia-russia-mitigating-the-impact-of-the-russia-ukraine-war-black-sea-grain-initiative",
+  "title": "Mitigating the impact of the Russia-Ukraine war (Black Sea Grain Initiative)",
+  "country": "Russia",
+  "location": "Black Sea, Ukraine",
+  "lat": 44.5,
+  "lng": 34,
+  "startYear": 2022,
+  "endYear": 2023,
+  "impact": "Limited",
+  "region": "Eastern Europe",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "iraq-preventing-a-conflict-relapse-between-iraq-and-kuwait",
+  "title": "Preventing a conflict relapse between Iraq and Kuwait",
+  "country": "Iraq",
+  "location": "Iraq",
+  "lat": 33.2232,
+  "lng": 43.6793,
+  "startYear": 1991,
+  "endYear": 2003,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "UN peacekeepers helped to prevent further hostilities between Kuwait and Iraq after the First Gulf War."
+ },
+ {
+  "slug": "albania-preventing-a-conflict-relapse-in-albania",
+  "title": "Preventing a conflict relapse in Albania",
+  "country": "Albania",
+  "location": "Albania",
+  "lat": 41.1533,
+  "lng": 20.1683,
+  "startYear": 1997,
+  "endYear": 1998,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The Multinational Protection Force and the Organisation for Security and Cooperation in Europe Presence in Albania helped to restore order, monitored the border with Kosovo, and mediated a peaceful end to an attempted coup d’état in 1998."
+ },
+ {
+  "slug": "bosnia-and-herzegovina-preventing-a-conflict-relapse-in-bosnia-and-herzegovina",
+  "title": "Preventing a conflict relapse in Bosnia and Herzegovina",
+  "country": "Bosnia and Herzegovina",
+  "location": "Bosnia and Herzegovina",
+  "lat": 43.9159,
+  "lng": 17.6791,
+  "startYear": 1995,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements",
+   "Human rights conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Legal prosecutions",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The Legal prosecution of political and military leaders who posed a threat to peace, the deployment of NATO and later EU peacekeepers, and the work of Organisation for Security and Cooperation in Europe and EU advisory and monitoring missions has helped to prevent a conflict relapse in Bosnia and Herzegovina."
+ },
+ {
+  "slug": "cambodia-preventing-a-conflict-relapse-in-cambodia",
+  "title": "Preventing a conflict relapse in Cambodia",
+  "country": "Cambodia",
+  "location": "Cambodia",
+  "lat": 12.5657,
+  "lng": 104.991,
+  "startYear": 1991,
+  "endYear": 1993,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "International transitional administration",
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Transitional Authority in Cambodia maintained peace and stability in post-conflict Cambodia until a national government was formed in 1993."
+ },
+ {
+  "slug": "comoros-preventing-a-conflict-relapse-in-comoros",
+  "title": "Preventing a conflict relapse in Comoros",
+  "country": "Comoros",
+  "location": "Comoros",
+  "lat": -11.6455,
+  "lng": 43.3333,
+  "startYear": 2002,
+  "endYear": 2008,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "Ongoing negotiations and the deployment of Organisation of African Unity/African Union observer missions and a military operation helped to ensure that Comoros did not experience a conflict relapse."
+ },
+ {
+  "slug": "el-salvador-preventing-a-conflict-relapse-in-el-salvador",
+  "title": "Preventing a conflict relapse in El Salvador",
+  "country": "El Salvador",
+  "location": "El Salvador",
+  "lat": 13.7942,
+  "lng": -88.8965,
+  "startYear": 1989,
+  "endYear": 1995,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The United Nations Observer Group in El Salvador and the United Nations Mission in El Salvador verified the implementation of a ceasefire, contributed to stabilising the country, and strengthened the fragile institutions, preventing a conflict relapse in El Salvador."
+ },
+ {
+  "slug": "guatemala-preventing-a-conflict-relapse-in-guatemala",
+  "title": "Preventing a conflict relapse in Guatemala",
+  "country": "Guatemala",
+  "location": "Guatemala",
+  "lat": 15.7835,
+  "lng": -90.2308,
+  "startYear": 1996,
+  "endYear": 2004,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The United Nations Verification Mission in Guatemala ensured the ceasefire held and disarmed combatants, in addition to guaranteeing a relatively safe and secure environment for elections to take place alongside EU and Organisation of American States observers, preventing a conflict relapse in Guatemala."
+ },
+ {
+  "slug": "indonesia-preventing-a-conflict-relapse-in-indonesia-aceh",
+  "title": "Preventing a conflict relapse in Indonesia (Aceh)",
+  "country": "Indonesia",
+  "location": "Aceh, Indonesia",
+  "lat": 4.6951,
+  "lng": 96.7494,
+  "startYear": 2005,
+  "endYear": 2012,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "indonesia-preventing-a-conflict-relapse-in-indonesia-central-sulawesi",
+  "title": "Preventing a conflict relapse in Indonesia (Central Sulawesi)",
+  "country": "Indonesia",
+  "location": "Central Sulawesi, Indonesia",
+  "lat": -1.43,
+  "lng": 121.4456,
+  "startYear": 2002,
+  "endYear": 2007,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Local action",
+   "Military intervention",
+   "Peace infrastructure"
+  ],
+  "summary": "Stability in Central Sulawesi was restored, ending the intercommunal conflict and preventing a conflict relapse."
+ },
+ {
+  "slug": "kenya-preventing-a-conflict-relapse-in-kenya-wajir",
+  "title": "Preventing a conflict relapse in Kenya (Wajir)",
+  "country": "Kenya",
+  "location": "Wajir County, North East Province, Kenya",
+  "lat": 1.7471,
+  "lng": 40.0573,
+  "startYear": 1993,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Peace infrastructure"
+  ],
+  "summary": "Conflict relapses in Wajir County were prevented and armed conflict in the area has been significantly reduced thanks to the maintenance of a peace infrastructure."
+ },
+ {
+  "slug": "kosovo-preventing-a-conflict-relapse-in-kosovo",
+  "title": "Preventing a conflict relapse in Kosovo",
+  "country": "Kosovo",
+  "location": "Kosovo",
+  "lat": 42.6026,
+  "lng": 20.903,
+  "startYear": 1999,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "International transitional administration",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "A North Atlantic Treaty Organisation peacekeeping force, a UN transitional administration, and a political mission from the Organisation for Security and Cooperation in Europe have successfully helped to prevent a conflict relapse in Kosovo since 1999."
+ },
+ {
+  "slug": "mozambique-preventing-a-conflict-relapse-in-mozambique",
+  "title": "Preventing a conflict relapse in Mozambique",
+  "country": "Mozambique",
+  "location": "Mozambique",
+  "lat": -18.6657,
+  "lng": 35.5296,
+  "startYear": 1992,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Operations in Mozambique helped to maintain peace and stability in extremely adverse conditions in post-war Mozambique."
+ },
+ {
+  "slug": "mozambique-preventing-a-conflict-relapse-in-mozambique-2013-2018",
+  "title": "Preventing a conflict relapse in Mozambique (2013 – 2018)",
+  "country": "Mozambique",
+  "location": "Mozambique",
+  "lat": -18.6657,
+  "lng": 35.5296,
+  "startYear": 2013,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "Talks mediated by the Centre for Humanitarian Dialogue and the Government of Switzerland helped to prevent a conflict relapse in Mozambique more than two decades after the devastating civil war there had ended."
+ },
+ {
+  "slug": "nepal-preventing-a-conflict-relapse-in-nepal",
+  "title": "Preventing a conflict relapse in Nepal",
+  "country": "Nepal",
+  "location": "Nepal",
+  "lat": 28.3949,
+  "lng": 84.124,
+  "startYear": 2007,
+  "endYear": 2011,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Cultural / ideological conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Local action",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The United Nations Mission in Nepal worked with local people and organisations to ensure that the peace process stayed on track while facilitating the Disarmament, Demobilisation, and Reintegration and military integration process, preventing a conflict relapse in Nepal."
+ },
+ {
+  "slug": "papua-new-guinea-preventing-a-conflict-relapse-in-papua-new-guinea-bougainville",
+  "title": "Preventing a conflict relapse in Papua New Guinea (Bougainville)",
+  "country": "Papua New Guinea",
+  "location": "Autonomous Region of Bougainville, (de jure) Papua New Guinea",
+  "lat": -6.2159,
+  "lng": 155.0788,
+  "startYear": 2001,
+  "endYear": 2005,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of international peacekeeping missions helped to ensure Bougainville did not relapse into conflict and created a stable and secure environment for the new administration to govern the region."
+ },
+ {
+  "slug": "sierra-leone-preventing-a-conflict-relapse-in-sierra-leone",
+  "title": "Preventing a conflict relapse in Sierra Leone",
+  "country": "Sierra Leone",
+  "location": "Sierra Leone",
+  "lat": 8.4606,
+  "lng": -11.7799,
+  "startYear": 2000,
+  "endYear": 2008,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Mission to Sierra Leone disarmed over 70,000 combatants, oversaw a peaceful election, and helped to strengthen the Sierra Leonean state, preventing a conflict relapse."
+ },
+ {
+  "slug": "timor-leste-preventing-a-conflict-relapse-in-timor-leste",
+  "title": "Preventing a conflict relapse in Timor-Leste",
+  "country": "Timor-Leste",
+  "location": "Timor",
+  "lat": -8.8742,
+  "lng": 125.7275,
+  "startYear": 1999,
+  "endYear": 2012,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "International transitional administration",
+   "Peacekeeping mission"
+  ],
+  "summary": "A transitional international administration and a peacekeeping mission helped to prevent a conflict relapse in Timor-Leste and laid the foundations for an accountable state governed by a constitution and an elected government to be built."
+ },
+ {
+  "slug": "liberia-preventing-a-conflict-relapse-in-west-africa-with-legal-prosecutions",
+  "title": "Preventing a conflict relapse in West Africa with Legal prosecutions",
+  "country": "Liberia",
+  "location": "Liberia and Sierra Leone",
+  "lat": 7,
+  "lng": -10,
+  "startYear": 2002,
+  "endYear": 2013,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Human rights conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Legal prosecutions"
+  ],
+  "summary": "By removing powerful figures with a history of employing violence and armed conflict from the political environment, establishing a historical record of events leading up to and during the war, and bringing the perpetrators of war crimes to justice, a series of transitional justice mechanisms helped to prevent a conflict relapse in West Africa."
+ },
+ {
+  "slug": "south-sudan-preventing-an-interstate-conflict-between-south-sudan-and-sudan",
+  "title": "Preventing an interstate conflict between South Sudan and Sudan",
+  "country": "South Sudan",
+  "location": "South Sudan",
+  "lat": 6.877,
+  "lng": 31.307,
+  "startYear": 2011,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements",
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission",
+   "Stabilising international borders"
+  ],
+  "summary": "The IGAD has successfully prevented a conflict relapse in South Sudan by employing a range of monitoring mechanisms and facilitating ongoing dialogue between former belligerents."
+ },
+ {
+  "slug": "iran-preventing-an-interstate-conflict-during-the-diplomatic-crisis-with-iran",
+  "title": "Preventing an interstate conflict during the diplomatic crisis with Iran",
+  "country": "Iran",
+  "location": "Iran",
+  "lat": 32.4279,
+  "lng": 53.688,
+  "startYear": 2015,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": "Ongoing international dialogue with the Government of Iran and the diplomatic initiatives of the EU3 and P5+1 helped to prevent the ongoing Iranian diplomatic crisis from escalating into an interstate armed conflict."
+ },
+ {
+  "slug": "burkina-faso-preventing-armed-conflict-in-burkina-faso",
+  "title": "Preventing armed conflict in Burkina Faso",
+  "country": "Burkina Faso",
+  "location": "Burkina Faso",
+  "lat": 12.2383,
+  "lng": -1.5616,
+  "startYear": 2015,
+  "endYear": 2022,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Preventive Diplomacy by the African Union and locally led mediation efforts helped to prevent a war in Burkina Faso following a military coup d’état."
+ },
+ {
+  "slug": "democratic-republic-of-congo-preventing-armed-conflict-in-democratic-republic-of-congo",
+  "title": "Preventing armed conflict in Democratic Republic of Congo",
+  "country": "Democratic Republic of Congo",
+  "location": "Democratic Republic of Congo",
+  "lat": -4.0383,
+  "lng": 21.7587,
+  "startYear": 2006,
+  "endYear": 2006,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Local action",
+   "Peacekeeping mission"
+  ],
+  "summary": "An armed conflict was prevented during the 2006 general elections in the Democratic Republic of Congo thanks to the concerted efforts of local people and organisation, the Congolese administration, and donors such as the EU."
+ },
+ {
+  "slug": "estonia-preventing-armed-conflict-in-estonia",
+  "title": "Preventing armed conflict in Estonia",
+  "country": "Estonia",
+  "location": "Estonia",
+  "lat": 58.5953,
+  "lng": 25.0136,
+  "startYear": 1993,
+  "endYear": 1997,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "A diplomatic intervention led by the Conference for Security and Cooperation in Europe helped to avert an armed conflict in Estonia following the collapse of the Soviet Union."
+ },
+ {
+  "slug": "france-preventing-armed-conflict-in-france-new-caledonia",
+  "title": "Preventing armed conflict in France (New Caledonia)",
+  "country": "France",
+  "location": "New Caledonia, Overseas France",
+  "lat": -20.9043,
+  "lng": 165.618,
+  "startYear": 1988,
+  "endYear": 2024,
+  "impact": "Lasting",
+  "region": "Western Europe and Others",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "A series of peace agreements mediated by the French government and the ongoing supervision of the UN Special Committee on Decolonisation has ensured that the debate over the future of New Caledonia has not escalated into armed conflict."
+ },
+ {
+  "slug": "fyr-macedonia-preventing-armed-conflict-in-fyr-macedonia",
+  "title": "Preventing armed conflict in FYR Macedonia",
+  "country": "FYR Macedonia",
+  "location": "North Macedonia",
+  "lat": 41.6086,
+  "lng": 21.7453,
+  "startYear": 1993,
+  "endYear": 1999,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Ethnic conflicts",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A timely diplomatic intervention by a range of international organisations and the deployment of a preventive peacekeeping mission helped the Former Yugoslav Republic of Macedonia to avoid armed conflict during the collapse of Yugoslavia in the 1990s."
+ },
+ {
+  "slug": "fyr-macedonia-preventing-armed-conflict-in-fyr-macedonia-2001",
+  "title": "Preventing armed conflict in FYR Macedonia (2001)",
+  "country": "FYR Macedonia",
+  "location": "Former Yugoslav Republic of Macedonia (North Macedonia since",
+  "lat": 41.6086,
+  "lng": 21.7453,
+  "startYear": 2001,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Ethnic conflicts",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict",
+   "Risk of a vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Peace infrastructure",
+   "Peacekeeping mission"
+  ],
+  "summary": "Armed conflict was prevented once again in Macedonia in 2001, in this case by a diplomatic intervention by a range of intergovernmental organisations, the deployment of a North Atlantic Treaty Organisation peacekeeping mission, and the strengthening of existing peace infrastructure."
+ },
+ {
+  "slug": "georgia-preventing-armed-conflict-in-georgia-adjara",
+  "title": "Preventing armed conflict in Georgia (Adjara)",
+  "country": "Georgia",
+  "location": "Autonomous Republic of Adjara, Georgia",
+  "lat": 41.64,
+  "lng": 41.97,
+  "startYear": 2004,
+  "endYear": 2004,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": "The diplomatic efforts of the Georgian and Russian governments helped prevent a war in the Autonomous Republic of Adjara."
+ },
+ {
+  "slug": "ghana-preventing-armed-conflict-in-ghana",
+  "title": "Preventing armed conflict in Ghana",
+  "country": "Ghana",
+  "location": "Ghana",
+  "lat": 7.9465,
+  "lng": -1.0232,
+  "startYear": 2008,
+  "endYear": 2009,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Military intervention",
+   "Monitoring, observation, political, and verification missions",
+   "Peace infrastructure"
+  ],
+  "summary": "Ghanaian people and organisations worked alongside the government and security services to ensure that the 2008 elections did not spark an armed conflict in Ghana."
+ },
+ {
+  "slug": "ghana-preventing-armed-conflict-in-ghana-kingdom-of-dagbon",
+  "title": "Preventing armed conflict in Ghana (Kingdom of Dagbon)",
+  "country": "Ghana",
+  "location": "Northern Region, Ghana",
+  "lat": 9.5,
+  "lng": -0.8,
+  "startYear": 2002,
+  "endYear": 2019,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement",
+   "Military intervention"
+  ],
+  "summary": "A war between rival claimants to the throne of the Kingdom of Dagbon in Northern Ghana was prevented by a Ghanaian Military intervention and the mediation of a peace agreement after sixteen years of talks."
+ },
+ {
+  "slug": "guinea-preventing-armed-conflict-in-guinea",
+  "title": "Preventing armed conflict in Guinea",
+  "country": "Guinea",
+  "location": "Guinea",
+  "lat": 9.9456,
+  "lng": -9.6966,
+  "startYear": 2008,
+  "endYear": 2010,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Thanks to timely diplomatic action by the African Union, Economic Community of West African States, and the UN, a violent political crisis in Guinea was prevented from escalating into armed conflict in 2009."
+ },
+ {
+  "slug": "guinea-bissau-preventing-armed-conflict-in-guinea-bissau",
+  "title": "Preventing armed conflict in Guinea-Bissau",
+  "country": "Guinea Bissau",
+  "location": "Guinea",
+  "lat": 11.8037,
+  "lng": -15.1804,
+  "startYear": 2012,
+  "endYear": 2025,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power",
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A diplomatic intervention led by Economic Community of West African States (ECOWAS) and the deployment of the ECOWAS Mission in Guinea-Bissau helped to prevent armed conflict in Guinea-Bissau in 2012."
+ },
+ {
+  "slug": "guyana-preventing-armed-conflict-in-guyana",
+  "title": "Preventing armed conflict in Guyana",
+  "country": "Guyana",
+  "location": "Guyana",
+  "lat": 4.8604,
+  "lng": -58.9302,
+  "startYear": 2003,
+  "endYear": 2006,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions",
+   "Peace infrastructure"
+  ],
+  "summary": "The UN Social Cohesion Program and the deployment of international observers from a range of intergovernmental organisations helped to ensure that the 2006 elections in Guyana did not spark an armed conflict."
+ },
+ {
+  "slug": "haiti-preventing-armed-conflict-in-haiti",
+  "title": "Preventing armed conflict in Haiti",
+  "country": "Haiti",
+  "location": "Haiti",
+  "lat": 18.9712,
+  "lng": -72.2852,
+  "startYear": 2004,
+  "endYear": 2019,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement",
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Stabilisation Mission in Haiti helped to prevent armed conflict from erupting in Haiti in 2004 after a severe constitutional crisis."
+ },
+ {
+  "slug": "kyrgyzstan-preventing-armed-conflict-in-kyrgyzstan",
+  "title": "Preventing armed conflict in Kyrgyzstan",
+  "country": "Kyrgyzstan",
+  "location": "Kyrgyzstan",
+  "lat": 41.2044,
+  "lng": 74.7661,
+  "startYear": 2010,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Local action"
+  ],
+  "summary": "The measures taken by the Organisation for Security and Cooperation in Europe and Kyrgyzstani people and organisations helped to prevent political crises and social unrest from escalating into armed conflict in 2010."
+ },
+ {
+  "slug": "lesotho-preventing-armed-conflict-in-lesotho",
+  "title": "Preventing armed conflict in Lesotho",
+  "country": "Lesotho",
+  "location": "Lesotho",
+  "lat": -29.61,
+  "lng": 28.2336,
+  "startYear": 2017,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The Southern African Development Committee Preventive Mission in Lesotho helped to maintain stability during a period of severe political crisis in Lesotho, preventing an armed conflict from erupting in 2017."
+ },
+ {
+  "slug": "madagascar-preventing-armed-conflict-in-madagascar",
+  "title": "Preventing armed conflict in Madagascar",
+  "country": "Madagascar",
+  "location": "Madagascar",
+  "lat": -18.7669,
+  "lng": 46.8691,
+  "startYear": 2009,
+  "endYear": 2014,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power",
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "A political crisis which verged on the brink of sparking a civil war in Madagascar was prevented from escalating by an effective international diplomatic intervention and the mediation of a peace agreement by the Southern African Development Community."
+ },
+ {
+  "slug": "malawi-preventing-armed-conflict-in-malawi",
+  "title": "Preventing armed conflict in Malawi",
+  "country": "Malawi",
+  "location": "Malawi",
+  "lat": -13.2543,
+  "lng": 34.3015,
+  "startYear": 2011,
+  "endYear": 2012,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "A timely diplomatic intervention by the UN helped to prevent an ongoing political crisis in Malawi from escalating into armed conflict in 2011."
+ },
+ {
+  "slug": "moldova-preventing-armed-conflict-in-moldova-gagauzia",
+  "title": "Preventing armed conflict in Moldova (Gagauzia)",
+  "country": "Moldova",
+  "location": "Autonomous Territorial Unit of Gagauzia, Moldova",
+  "lat": 46,
+  "lng": 28.7,
+  "startYear": 1990,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": "A second war in Moldova during the 1990s was prevented thanks to the negotiation of an effective political compromise with Gagauz leaders."
+ },
+ {
+  "slug": "nigeria-preventing-armed-conflict-in-nigeria",
+  "title": "Preventing armed conflict in Nigeria",
+  "country": "Nigeria",
+  "location": "Nigeria",
+  "lat": 9.082,
+  "lng": 8.6753,
+  "startYear": 2014,
+  "endYear": 2015,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Peace infrastructure"
+  ],
+  "summary": "The National Peace Committee helped to guide Nigeria through its first peaceful elections in history amidst a tense a political climate, preventing an armed conflict."
+ },
+ {
+  "slug": "russia-preventing-armed-conflict-in-russia-dagestan",
+  "title": "Preventing armed conflict in Russia (Dagestan)",
+  "country": "Russia",
+  "location": "Republic of Dagestan, Russia",
+  "lat": 42.9849,
+  "lng": 47.5047,
+  "startYear": 1991,
+  "endYear": 2000,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action"
+  ],
+  "summary": "Traditional methods of political organisation have helped prevent armed conflict in the Republic of Dagestan during the unrest and instability that has marked life in much of the Caucasus in the post-Soviet period."
+ },
+ {
+  "slug": "solomon-islands-preventing-armed-conflict-in-solomon-islands",
+  "title": "Preventing armed conflict in Solomon Islands",
+  "country": "Solomon Islands",
+  "location": "Gaudalcanal, Solomon Islands",
+  "lat": -9.6167,
+  "lng": 160.15,
+  "startYear": 1999,
+  "endYear": 2001,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Conflicts for political power",
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions",
+   "Peace infrastructure"
+  ],
+  "summary": "Negotiations facilitated by the Commonwealth and the Government of Australia combined with the deployment of an international monitoring mission and the creation of a peace infrastructure to prevent intercommunal violence from escalating into war in Solomon Islands in 2000."
+ },
+ {
+  "slug": "south-africa-preventing-armed-conflict-in-south-africa",
+  "title": "Preventing Armed Conflict In South Africa",
+  "country": "South Africa",
+  "location": "South Africa",
+  "lat": -30.5595,
+  "lng": 22.9375,
+  "startYear": 1992,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Local action",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "sao-tome-and-principe-preventing-armed-conflict-in-sao-tome-and-principe",
+  "title": "Preventing armed conflict in São Tomé and Príncipe",
+  "country": "São Tomé and Príncipe",
+  "location": "São Tomé",
+  "lat": 0.3302,
+  "lng": 6.7333,
+  "startYear": 2003,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "Constitutional order was peacefully restored in São Tomé and Príncipe thanks to the mediation efforts of a host of national governments and international organisations."
+ },
+ {
+  "slug": "azerbaijan-preventing-armed-conflict-in-the-caspian-sea",
+  "title": "Preventing armed conflict in the Caspian Sea",
+  "country": "Azerbaijan",
+  "location": "Caspian Sea",
+  "lat": 41.5,
+  "lng": 50.5,
+  "startYear": 2001,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Territorial & border disputes",
+   "Resource & environmental conflicts",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "An interstate conflict between Iran and Azerbaijan was prevented and the risk of war between any of the littoral states on the Caspian Sea was demonstrably reduced."
+ },
+ {
+  "slug": "gambia-preventing-armed-conflict-in-the-gambia",
+  "title": "Preventing armed conflict in The Gambia",
+  "country": "Gambia",
+  "location": "The Gambia",
+  "lat": 13.4432,
+  "lng": -15.3101,
+  "startYear": 2017,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": "The deployment of an Economic Community of West African States peacekeeping force has helped The Gambia to prevent a constitutional crisis that from escalating into an armed conflict."
+ },
+ {
+  "slug": "tunisia-preventing-armed-conflict-in-tunisia",
+  "title": "Preventing armed conflict in Tunisia",
+  "country": "Tunisia",
+  "location": "Tunisia",
+  "lat": 33.8869,
+  "lng": 9.5375,
+  "startYear": 2013,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The National Dialogue Quartet, a consortium of four major Tunisian civil society organisations, helped to prevent armed conflict and guide their country on a peaceful course in the wake of the 2011 Jasmine Revolution."
+ },
+ {
+  "slug": "zimbabwe-preventing-armed-conflict-in-zimbabwe",
+  "title": "Preventing armed conflict in Zimbabwe",
+  "country": "Zimbabwe",
+  "location": "Zimbabwe",
+  "lat": -19.0154,
+  "lng": 29.1549,
+  "startYear": 2008,
+  "endYear": 2009,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The diplomatic intervention of the Southern African Development Community and South African President Mbeki helped to avert an armed conflict in Zimbabwe following a contested election in 2008."
+ },
+ {
+  "slug": "ethiopia-preventing-armed-conflict-on-the-ethiopia-somalia-border",
+  "title": "Preventing armed conflict on the Ethiopia-Somalia border",
+  "country": "Ethiopia",
+  "location": "Adadda, Ethiopia",
+  "lat": 5.6,
+  "lng": 39,
+  "startYear": 2007,
+  "endYear": 2007,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Herder–farmer conflicts",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "The Government of Puntland ended the pervasive armed conflict on the Ethiopia/Somalia border, minimising the risk of an interstate conflict in future."
+ },
+ {
+  "slug": "china-preventing-conflict-between-saudi-arabia-and-iran",
+  "title": "Preventing conflict between Saudi Arabia and Iran",
+  "country": "China",
+  "location": "Saudi Arabia; Iran; negotiations in Beijing",
+  "lat": 39.9042,
+  "lng": 116.4074,
+  "startYear": 2016,
+  "endYear": 2023,
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Proxy wars"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Diplomacy"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "croatia-preventing-conflict-relapse-in-croatia",
+  "title": "Preventing conflict relapse in Croatia",
+  "country": "Croatia",
+  "location": "Croatia",
+  "lat": 45.1,
+  "lng": 15.2,
+  "startYear": 1996,
+  "endYear": 2002,
+  "impact": "Lasting",
+  "region": "Eastern Europe",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "International transitional administration",
+   "Monitoring, observation, political, and verification missions",
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Confidence Restoration Operation, United Nations Mission of Observers in Prevlaka, and United Nations Transitional Administration for Eastern Slavonia, Baranja, and Western Sirmium helped to prevent a conflict relapse in Croatia."
+ },
+ {
+  "slug": "liberia-preventing-conflict-relapse-in-liberia",
+  "title": "Preventing conflict relapse in Liberia",
+  "country": "Liberia",
+  "location": "Liberia",
+  "lat": 6.4281,
+  "lng": -9.4295,
+  "startYear": 2003,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "A series of peacekeeping operations helped to maintain stability in Liberia for fifteen years following the signing of the Accra Agreement, preventing a conflict relapse."
+ },
+ {
+  "slug": "colombia-preventing-interstate-between-colombia-and-ecuador-and-venezuela",
+  "title": "Preventing interstate between Colombia and Ecuador (and Venezuela)",
+  "country": "Colombia",
+  "location": "Colombia",
+  "lat": 4.5709,
+  "lng": -74.2973,
+  "startYear": 2008,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": "A war between Colombia and Ecuador, which was likely to have drawn in Venezuela as well, was avoided with the help of a diplomatic intervention from the Organisation of American States and the Rio Group."
+ },
+ {
+  "slug": "belize-preventing-interstate-conflict-between-belize-and-guatemala",
+  "title": "Preventing interstate conflict between Belize and Guatemala",
+  "country": "Belize",
+  "location": "Belize",
+  "lat": 17.1899,
+  "lng": -88.4976,
+  "startYear": 2000,
+  "endYear": 2019,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "A diplomatic intervention by the Organisation of American States helped to prevent an interstate conflict between Belize and Guatemala in 1999-2000."
+ },
+ {
+  "slug": "djibouti-preventing-interstate-conflict-between-djibouti-and-eritrea",
+  "title": "Preventing interstate conflict between Djibouti and Eritrea",
+  "country": "Djibouti",
+  "location": "Djibouti",
+  "lat": 11.8251,
+  "lng": 42.5903,
+  "startYear": 2008,
+  "endYear": 2011,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "A low-intensity interstate conflict between Djibouti and Eritrea was prevented from escalating into a major war thanks to the mediation efforts of the Government of Qatar and the deployment of a Qatari peacekeeping mission."
+ },
+ {
+  "slug": "kenya-preventing-interstate-conflict-in-the-great-lakes",
+  "title": "Preventing interstate conflict in the Great Lakes",
+  "country": "Kenya",
+  "location": "The Great Lakes, Africa",
+  "lat": -1.5,
+  "lng": 30.5,
+  "startYear": 2000,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse",
+   "Risk of a vertical (state-based) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Peace infrastructure"
+  ],
+  "summary": "After being established by the African Union and the UN, the ICGLR has prevented further interstate conflict in the Great Lakes since 2003."
+ },
+ {
+  "slug": "south-korea-preventing-interstate-conflict-on-the-korean-peninsula",
+  "title": "Preventing interstate conflict on the Korean peninsula",
+  "country": "South Korea",
+  "location": "North Korea",
+  "lat": 40.3399,
+  "lng": 127.5101,
+  "startYear": 1953,
+  "endYear": 1995,
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions"
+  ],
+  "summary": "The Neutral Nations Supervisory Commission and the Military Armistice Committee helped to contain the armed conflict between North and South Korea for over four decades, playing a key role in implementing the terms of the 1953 Armistice and monitoring adherence to them by both signatories."
+ },
+ {
+  "slug": "israel-preventing-renewed-interstate-conflict-between-israel-and-jordan",
+  "title": "Preventing renewed interstate conflict between Israel and Jordan",
+  "country": "Israel",
+  "location": "Israel",
+  "lat": 31.0461,
+  "lng": 34.8516,
+  "startYear": 1991,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The mediation efforts of the Government of USA ended the state of war between Israel and Jordan that had existed for 46 years, greatly reducing the risk of further interstate conflict and stabilising the region."
+ },
+ {
+  "slug": "israel-preventing-renewed-interstate-conflict-between-israel-and-syria",
+  "title": "Preventing renewed interstate conflict between Israel and Syria",
+  "country": "Israel",
+  "location": "Israel",
+  "lat": 31.0461,
+  "lng": 34.8516,
+  "startYear": 1974,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission"
+  ],
+  "summary": "The United Nations Disengagement Observer Force has helped to prevent renewed war between Israel and Syria since 1974."
+ },
+ {
+  "slug": "kenya-reducing-armed-conflict-across-kenya",
+  "title": "Reducing armed conflict across Kenya",
+  "country": "Kenya",
+  "location": "Kenya",
+  "lat": -0.0236,
+  "lng": 37.9062,
+  "startYear": 2001,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power"
+  ],
+  "conflictTypes": [
+   "Risk of a conflict relapse",
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of a vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peace infrastructure"
+  ],
+  "summary": "The development of an effective peace infrastructure helped to reduce armed conflict across Kenya and limit the risk of electoral violence."
+ },
+ {
+  "slug": "nigeria-reducing-armed-conflict-across-nigeria-middle-belt",
+  "title": "Reducing armed conflict across Nigeria (Middle Belt)",
+  "country": "Nigeria",
+  "location": "Nigeria",
+  "lat": 9.082,
+  "lng": 8.6753,
+  "startYear": 2016,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power",
+   "Herder–farmer conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Risk of a conflict relapse",
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peace infrastructure"
+  ],
+  "summary": "The development of a peace infrastructure across the Middle Belt of Nigeria has helped to reduce armed conflict and prevent electoral violence."
+ },
+ {
+  "slug": "ghana-reducing-armed-conflict-in-ghana",
+  "title": "Reducing armed conflict in Ghana",
+  "country": "Ghana",
+  "location": "Ghana",
+  "lat": 7.9465,
+  "lng": -1.0232,
+  "startYear": 2002,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peace infrastructure"
+  ],
+  "summary": "Armed conflict across Ghana has been reduced by the construction and maintenance of a comprehensive peace infrastructure."
+ },
+ {
+  "slug": "india-reducing-armed-conflict-in-india-manipur",
+  "title": "Reducing armed conflict in India (Manipur)",
+  "country": "India",
+  "location": "Manipur, India",
+  "lat": 24.6637,
+  "lng": 93.9063,
+  "startYear": 2005,
+  "endYear": 2023,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements",
+   "Territorial & border disputes"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "The level of armed conflict taking place in the complex social and military environment of Manipur has been reduced thanks to a gradual peace process led by the Indian government."
+ },
+ {
+  "slug": "mali-reducing-armed-conflict-in-mali",
+  "title": "Reducing Armed Conflict In Mali",
+  "country": "Mali",
+  "location": "Mali",
+  "lat": 17.5707,
+  "lng": -3.9962,
+  "startYear": 2011,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Conflicts for political power",
+   "Ethnic conflicts",
+   "Religious conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement"
+  ],
+  "summary": "In a context of escalating conflict, two military coups, and the progressive collapse of the national peace framework, the Centre for Humanitarian Dialogue sustained a programme of local mediation in Mali that produced dozens of community peace agreements, providing a degree of stability at sub-national level even as the macro-level situation deteriorated severely."
+ },
+ {
+  "slug": "nigeria-reducing-armed-conflict-in-nigeria-southern-plateau-state",
+  "title": "Reducing armed conflict in Nigeria (Southern Plateau State)",
+  "country": "Nigeria",
+  "location": "Plateau State, Nigeria",
+  "lat": 9.2182,
+  "lng": 9.5179,
+  "startYear": 2016,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Herder–farmer conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peace infrastructure"
+  ],
+  "summary": "Local people and organisations and the Centre for Humanitarian Dialogue developed a peace declaration that ended the ongoing low-intensity armed conflicts between 56 communities in southern Plateau State, Nigeria."
+ },
+ {
+  "slug": "somalia-reducing-armed-conflict-in-somalia-somaliland",
+  "title": "Reducing armed conflict in Somalia (Somaliland)",
+  "country": "Somalia",
+  "location": "Somaliland, (de jure) Somalia",
+  "lat": 9.5,
+  "lng": 45.5,
+  "startYear": 1991,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict",
+   "Risk of a conflict relapse"
+  ],
+  "initiatives": [
+   "Local action",
+   "Mediation of a peace agreement",
+   "Peace infrastructure"
+  ],
+  "summary": "Thanks to the efforts of local people and organisations, Somaliland has remained at peace for almost thirty years while much of the rest of Somalia was been plagued by conflict and famine."
+ },
+ {
+  "slug": "sudan-reducing-armed-conflict-in-sudan-south-kordofan",
+  "title": "Reducing armed conflict in Sudan (South Kordofan)",
+  "country": "Sudan",
+  "location": "South Kordofan, Sudan",
+  "lat": 11,
+  "lng": 29.7,
+  "startYear": 2011,
+  "endYear": 2023,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Nationalism & independence movements"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Vertical (state-based) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "aden-reducing-armed-conflict-in-the-horn-of-africa-with-peace-infrastructure",
+  "title": "Reducing armed conflict in the Horn of Africa with peace infrastructure",
+  "country": "Aden",
+  "location": "Horn of Africa",
+  "lat": 8,
+  "lng": 45,
+  "startYear": 2002,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Peace infrastructure"
+  ],
+  "summary": "The Conflict Early Warning and Response Mechanism established by the Intergovernmental Authority on Development has used data, technology, and a decentralised network of people and organisations to build an effective early warning system that has demonstrably reduced armed conflict across the Horn of Africa."
+ },
+ {
+  "slug": "bendoe-reducing-armed-conflict-in-boendoe",
+  "title": "Reducing armed conflict in “Boendoe”",
+  "country": "Bendoe",
+  "location": "Africa",
+  "lat": 0,
+  "lng": 20,
+  "startYear": 2016,
+  "endYear": 2018,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Local action",
+   "Peace infrastructure"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "cote-d-ivoire-reducing-armed-conflict-on-the-cote-d-ivoire-liberia-border",
+  "title": "Reducing Armed Conflict on the Côte d’Ivoire-Liberia Border",
+  "country": "Côte d’Ivoire",
+  "location": "Côte d’Ivoire-Liberia Border",
+  "lat": 5.5,
+  "lng": -8,
+  "startYear": 2014,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Civil wars",
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission",
+   "Stabilising international borders"
+  ],
+  "summary": "Armed conflict has been reduced in the relatively unstable borderlands between Côte d’Ivoire and Liberia and bilateral relations have also improved."
+ },
+ {
+  "slug": "ethiopia-reducing-armed-conflict-on-the-ethiopia-kenya-border",
+  "title": "Reducing Armed Conflict on the Ethiopia-Kenya Border",
+  "country": "Ethiopia",
+  "location": "Ethiopia",
+  "lat": 9.145,
+  "lng": 40.4897,
+  "startYear": 2011,
+  "endYear": 2021,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Herder–farmer conflicts",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Peace infrastructure",
+   "Stabilising international borders"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "burkina-faso-reducing-armed-conflict-on-the-mali-niger-burkina-faso-international-border",
+  "title": "Reducing armed conflict on the Mali-Niger-Burkina Faso international border",
+  "country": "Burkina Faso",
+  "location": "Mali",
+  "lat": 17.5707,
+  "lng": -3.9962,
+  "startYear": 2017,
+  "endYear": 2020,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Stabilising international borders"
+  ],
+  "summary": "The Centre for Humanitarian Dialogue has worked with the governments of Burkina Faso, Mali, and Niger to reduce armed conflict in the frontier region where their respective international borders meet."
+ },
+ {
+  "slug": "india-reducing-ceasefire-violations-between-india-and-pakistan-in-kashmir",
+  "title": "Reducing ceasefire violations between India and Pakistan in Kashmir",
+  "country": "India",
+  "location": "Line of Control, Kashmir",
+  "lat": 34.3,
+  "lng": 74,
+  "startYear": 2021,
+  "endYear": 2025,
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "burundi-reducing-conflict-and-building-stability-on-the-burundi-tanzania-border",
+  "title": "Reducing conflict and building stability on the Burundi-Tanzania border",
+  "country": "Burundi",
+  "location": "Burundi",
+  "lat": -3.3731,
+  "lng": 29.9189,
+  "startYear": 2017,
+  "endYear": 2019,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of a horizontal (non-state) intrastate conflict",
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Stabilising international borders"
+  ],
+  "summary": "The UN has helped to manage conflict and instability along the international border between Burundi and Tanzania, reducing the likelihood of armed conflict between communities and minimising the risk of an interstate conflict."
+ },
+ {
+  "slug": "nigeria-reducing-violence-in-effium-community-nigeria",
+  "title": "Reducing violence in Effium Community, Nigeria",
+  "country": "Nigeria",
+  "location": "Effium Community, Ohaukwu Local Government Area, Ebonyi State, Nigeria",
+  "lat": 6.4,
+  "lng": 8.1,
+  "startYear": 2023,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Local action"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "kyrgyzstan-resolving-the-border-dispute-between-kyrgyzstan-and-tajikistan",
+  "title": "Resolving the border dispute between Kyrgyzstan and Tajikistan",
+  "country": "Kyrgyzstan",
+  "location": "Ferghana Valley",
+  "lat": 40.5,
+  "lng": 71.5,
+  "startYear": 2023,
+  "endYear": 2025,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Nationalism & independence movements",
+   "Territorial & border disputes",
+   "Resource & environmental conflicts"
+  ],
+  "conflictTypes": [
+   "Interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "china-china-resolving-the-china-india-border-standoff-on-the-line-of-actual-control",
+  "title": "Resolving the China-India border standoff on the Line of Actual Control",
+  "country": "China",
+  "location": "Eastern Ladakh, India",
+  "lat": 34.1526,
+  "lng": 78.1773,
+  "startYear": 2022,
+  "endYear": 2024,
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "guinea-bissau-resolving-the-militarised-border-dispute-between-guinea-bissau-and-senegal",
+  "title": "Resolving the militarised border dispute between Guinea-Bissau and Senegal",
+  "country": "Guinea-Bissau",
+  "location": "Guinea-Bissau",
+  "lat": 11.8037,
+  "lng": -15.1804,
+  "startYear": 1985,
+  "endYear": 1991,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "French Diplomacy helped to prevent border clashes from escalating while the arbitration of the ICJ resolved the territorial dispute between the two countries."
+ },
+ {
+  "slug": "bahrain-resolving-the-militarised-territorial-dispute-between-bahrain-and-qatar",
+  "title": "Resolving the militarised territorial dispute between Bahrain and Qatar",
+  "country": "Bahrain",
+  "location": "The Hawar Islands, Bahrain",
+  "lat": 25.6667,
+  "lng": 50.7833,
+  "startYear": 1991,
+  "endYear": 2001,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "The longstanding militarised territorial dispute between Bahrain and Qatar regarding the Hawar Islands was prevented by the diplomatic intervention of the Government of Saudi Arabia and resolved by the International Court of Justice in 2001."
+ },
+ {
+  "slug": "cambodia-resolving-the-militarised-territorial-dispute-between-cambodia-and-thailand",
+  "title": "Resolving the militarised territorial dispute between Cambodia and Thailand",
+  "country": "Cambodia",
+  "location": "Preah Vihear Temple, Cambodia",
+  "lat": 14.3911,
+  "lng": 104.6803,
+  "startYear": 2011,
+  "endYear": 2013,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "Regional Diplomacy led by ASEAN and arbitration by the ICJ resolved the militarised territorial dispute between Cambodia and Thailand which threatened to escalate into a major interstate conflict following border clashes in 2011."
+ },
+ {
+  "slug": "chad-resolving-the-militarised-territorial-dispute-between-chad-and-libya",
+  "title": "Resolving the militarised territorial dispute between Chad and Libya",
+  "country": "Chad",
+  "location": "Aouzou Strip, Chad",
+  "lat": 21.8,
+  "lng": 17.4,
+  "startYear": 1990,
+  "endYear": 1994,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Peacekeeping mission",
+   "Resolution of a militarised territorial dispute",
+   "Stabilising international borders"
+  ],
+  "summary": "Following the International Court of Justice’s judgement of the dispute, the United Nations Aouzou Strip Observer Group monitored the withdrawal of Libyan troops from the area and helped ensure that the handover of the disputed territory to Chad went ahead peacefully."
+ },
+ {
+  "slug": "costa-rica-resolving-the-militarised-territorial-dispute-between-costa-rica-and-nicaragua",
+  "title": "Resolving the militarised territorial dispute between Costa Rica and Nicaragua",
+  "country": "Costa Rica",
+  "location": "Costa Rica",
+  "lat": 9.7489,
+  "lng": -83.7534,
+  "startYear": 2014,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "A diplomatic intervention by the Organisation of American States prevented an armed conflict between Costa Rica and Nicaragua from erupting in 2010 and the International Court of Justice peacefully resolved the dispute in 2018."
+ },
+ {
+  "slug": "djibouti-resolving-the-militarised-territorial-dispute-between-djibouti-and-eritrea",
+  "title": "Resolving the militarised territorial dispute between Djibouti and Eritrea",
+  "country": "Djibouti",
+  "location": "Djibouti",
+  "lat": 11.8251,
+  "lng": 42.5903,
+  "startYear": 2017,
+  "endYear": "present",
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Resolution of a militarised territorial dispute",
+   "Stabilising international borders"
+  ],
+  "summary": "The militarised territorial dispute between Djibouti and Eritrea was prevented from escalating in 2017 by the timely diplomatic intervention of the African Union and was ultimately resolved after the Government of Saudi Arabia mediated a peace agreement."
+ },
+ {
+  "slug": "ecuador-resolving-the-militarised-territorial-dispute-between-ecuador-and-peru",
+  "title": "Resolving the militarised territorial dispute between Ecuador and Peru",
+  "country": "Ecuador",
+  "location": "Ecuador",
+  "lat": -1.8312,
+  "lng": -78.1834,
+  "startYear": 1995,
+  "endYear": 1998,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": null
+ },
+ {
+  "slug": "eritrea-resolving-the-militarised-territorial-dispute-between-eritrea-and-yemen",
+  "title": "Resolving the militarised territorial dispute between Eritrea and Yemen",
+  "country": "Eritrea",
+  "location": "The Hanish Islands, Yemen",
+  "lat": 13.75,
+  "lng": 42.75,
+  "startYear": 1995,
+  "endYear": 1998,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "The immediate threat of armed conflict was ended and the territorial dispute over the Hanish Islands was resolved by the Permanent Court of Arbitration."
+ },
+ {
+  "slug": "honduras-resolving-the-militarised-territorial-dispute-between-honduras-and-nicaragua",
+  "title": "Resolving the militarised territorial dispute between Honduras and Nicaragua",
+  "country": "Honduras",
+  "location": "Honduras",
+  "lat": 15.2,
+  "lng": -86.2419,
+  "startYear": 1999,
+  "endYear": 2007,
+  "impact": "Lasting",
+  "region": "Latin America and the Caribbean",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Monitoring, observation, political, and verification missions",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "The Organisation of American States helped to prevent a territorial dispute between Honduras and Nicaragua from escalating into armed conflict while the International Court of Justice investigated the case and resolved the dispute peacefully."
+ },
+ {
+  "slug": "qatar-resolving-the-militarised-territorial-dispute-between-qatar-and-saudi-arabia",
+  "title": "Resolving the militarised territorial dispute between Qatar and Saudi Arabia",
+  "country": "Qatar",
+  "location": "Qatar",
+  "lat": 25.3548,
+  "lng": 51.1839,
+  "startYear": 1992,
+  "endYear": 2001,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Resolution of a militarised territorial dispute"
+  ],
+  "summary": "The territorial dispute between Qatar and Saudi was resolved, preventing an interstate conflict from erupting over the contested territory."
+ },
+ {
+  "slug": "botswana-resolving-the-militarised-territorial-disputes-between-botswana-and-namibia",
+  "title": "Resolving the militarised territorial disputes between Botswana and Namibia",
+  "country": "Botswana",
+  "location": "Botswana",
+  "lat": -22.3285,
+  "lng": 24.6849,
+  "startYear": 1999,
+  "endYear": 2018,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Resolution of a militarised territorial dispute",
+   "Stabilising international borders"
+  ],
+  "summary": "The territorial dispute between Botswana and Namibia, the result of an 1890 treaty between Germany and the UK, was peacefully resolved by the arbitration of the International Court of Justice in 1999 after a series of border clashes."
+ },
+ {
+  "slug": "cameroon-resolving-the-militarised-territorial-disputes-between-cameroon-and-nigeria",
+  "title": "Resolving the militarised territorial disputes between Cameroon and Nigeria",
+  "country": "Cameroon",
+  "location": "Cameroon",
+  "lat": 7.3697,
+  "lng": 12.3547,
+  "startYear": 1994,
+  "endYear": 2006,
+  "impact": "Lasting",
+  "region": "Africa",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement",
+   "Resolution of a militarised territorial dispute",
+   "Stabilising international borders"
+  ],
+  "summary": "A militarised territorial dispute between Cameroon and Nigeria was resolved by the International Court of Justice, the Organisation of African Unity, and the UN helped to ensure the peaceful withdrawal of Nigerian forces from the contested area."
+ },
+ {
+  "slug": "china-resolving-the-militarised-territorial-disputes-between-china-and-russia-soviet-union",
+  "title": "Resolving the militarised territorial disputes between China and Russia/Soviet Union",
+  "country": "China",
+  "location": "China",
+  "lat": 35.8617,
+  "lng": 104.1954,
+  "startYear": 1991,
+  "endYear": 2008,
+  "impact": "Lasting",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Territorial & border disputes",
+   "Interstate conflicts"
+  ],
+  "conflictTypes": [
+   "Risk of an interstate conflict"
+  ],
+  "initiatives": [
+   "Resolution of a militarised territorial dispute",
+   "Stabilising international borders"
+  ],
+  "summary": "The long-standing border dispute between China and Russia (which almost sparked a war in the 1960s) was resolved, dramatically reducing the chance of an interstate conflict."
+ },
+ {
+  "slug": "angola-stopping-the-armed-conflict-in-angola-for-five-years",
+  "title": "Stopping the armed conflict in Angola for five years",
+  "country": "Angola",
+  "location": "Angola",
+  "lat": -11.2027,
+  "lng": 17.8739,
+  "startYear": 1994,
+  "endYear": 1999,
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement",
+   "Peacekeeping mission"
+  ],
+  "summary": "The fighting in Angola was significantly reduced for approximately five years thanks to the mediation efforts of the UN and the governments of Portugal and USA."
+ },
+ {
+  "slug": "somalia-stopping-the-armed-conflict-in-somalia-mudug",
+  "title": "Stopping the armed conflict in Somalia (Mudug)",
+  "country": "Somalia",
+  "location": "Mudug, Somalia",
+  "lat": 6.5,
+  "lng": 47.5,
+  "startYear": 1993,
+  "endYear": "present",
+  "impact": "Limited",
+  "region": "Africa",
+  "themes": [
+   "Ethnic conflicts"
+  ],
+  "conflictTypes": [
+   "Horizontal (non-state) intrastate conflict"
+  ],
+  "initiatives": [
+   "Mediation of a peace agreement"
+  ],
+  "summary": "The peace agreement ended the fighting in the central province of Mudug, reducing armed conflict in the area and allowing supplies to cross Somalia, mitigating the impact of other conflicts."
+ },
+ {
+  "slug": "yemen-the-un-brokered-truce-in-yemen-2022",
+  "title": "The UN-brokered truce in Yemen (2022)",
+  "country": "Yemen",
+  "location": "Yemen",
+  "lat": 15.5527,
+  "lng": 48.5164,
+  "startYear": 2022,
+  "endYear": 2023,
+  "impact": "Limited",
+  "region": "Asia-Pacific",
+  "themes": [
+   "Civil wars"
+  ],
+  "conflictTypes": [
+   "Vertical (state-based) intrastate conflict with foreign involvement"
+  ],
+  "initiatives": [
+   "Diplomacy",
+   "Mediation of a peace agreement"
+  ],
+  "summary": null
+ }
+]

@@ -1,0 +1,160 @@
+@import "tailwindcss";
+
+/* Palette and type carried over from the original site. */
+@theme {
+  --color-paper: #fffdf9;
+  --color-card: #fffbf5;
+  --color-sea: #f1ebdf;
+  --color-rule: #e4dccd;
+  --color-ink: #1a1a1a;
+  --color-body: #474747;
+  --color-muted: #6c6c6c;
+  --color-faint: #929292;
+  --color-button: #424242;
+  --color-accent: #bc1000;
+  --color-lasting: #216c31;
+  --color-limited: #bc1000;
+
+  --font-serif: "Cormorant", Georgia, serif;
+  --font-sans: "Alata", Arial, sans-serif;
+
+  --text-caption: clamp(0.6875rem, 1.2vw, 0.75rem);
+  --text-body-sm: clamp(0.875rem, 1.5vw, 0.95rem);
+  --text-body: clamp(1rem, 2vw, 1.125rem);
+  --text-heading: clamp(2rem, 4.5vw, 3rem);
+  --text-hero: clamp(3.25rem, 10vw, 7rem);
+}
+
+:root {
+  --header-h: 4rem;
+  --noise: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: calc(var(--header-h) + 1rem);
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-body);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Paper grain over the whole page. */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  pointer-events: none;
+  background-image: var(--noise);
+  background-size: 180px 180px;
+  opacity: 0.22;
+  mix-blend-mode: multiply;
+}
+
+/* Heavier grain for cards and panels, as on the original. */
+.paper {
+  position: relative;
+  isolation: isolate;
+  background: var(--color-card);
+}
+.paper::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background-image: var(--noise);
+  background-size: 180px 180px;
+  opacity: 0.3;
+  mix-blend-mode: multiply;
+}
+
+.kicker {
+  font-family: var(--font-sans);
+  font-size: var(--text-caption);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+/* Double rule, like a newspaper column head. */
+.rule-double {
+  border-top: 3px double var(--color-ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* ---- Map ------------------------------------------------------------------ */
+
+.maplibregl-map {
+  font-family: var(--font-sans);
+}
+
+.map-pin {
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+  border: 2px solid var(--color-paper);
+  box-shadow: 0 1px 3px rgb(0 0 0 / 0.35);
+  cursor: pointer;
+  transition: transform 120ms ease;
+}
+.map-pin[data-impact="Lasting"] { background: var(--color-lasting); }
+.map-pin[data-impact="Limited"] { background: var(--color-limited); }
+.map-pin[data-impact=""] { background: var(--color-faint); }
+.map-pin:hover,
+.map-pin[data-active="true"] {
+  transform: scale(1.45);
+  z-index: 2;
+}
+
+.map-cluster {
+  display: grid;
+  place-items: center;
+  border-radius: 9999px;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.3);
+  transition: transform 120ms ease;
+}
+.map-cluster:hover { transform: scale(1.08); }
+.map-cluster span {
+  display: grid;
+  place-items: center;
+  width: calc(100% - 6px);
+  height: calc(100% - 6px);
+  border-radius: 9999px;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-size: 12px;
+  line-height: 1;
+}
+
+.maplibregl-popup-content {
+  background: var(--color-card);
+  border-radius: 2px;
+  padding: 0.75rem 1rem;
+  box-shadow: 0 0.25rem 1rem rgb(0 0 0 / 0.18);
+  border: 1px solid var(--color-rule);
+  max-width: 18rem;
+}
+.maplibregl-popup-tip { display: none; }
+.maplibregl-popup-close-button {
+  font-size: 18px;
+  padding: 0 6px;
+  color: var(--color-muted);
+}
+.maplibregl-ctrl-group {
+  background: var(--color-card) !important;
+  border-radius: 2px !important;
+}
+.maplibregl-ctrl-attrib {
+  background: rgb(255 253 249 / 0.8) !important;
+  font-size: 10px;
+}
