@@ -11,23 +11,36 @@ const sections = [
   { id: "top", label: "Intro" },
   { id: "record", label: "The record" },
   { id: "themes", label: "Patterns" },
-  { id: "methods", label: "Methods" },
   { id: "atlas", label: "Atlas" },
   { id: "index", label: "Index" },
 ];
 
 /** One screen of the horizontal homepage; stacks normally below 1024px. */
-function Panel({ id, className = "", numeral, children }: { id: string; className?: string; numeral?: string; children: React.ReactNode }) {
+function Panel({
+  id,
+  n,
+  className = "",
+  numeral,
+  children,
+}: {
+  id: string;
+  /** Position in the row, for the parallax offset. */
+  n: number;
+  className?: string;
+  numeral?: string;
+  children: React.ReactNode;
+}) {
   return (
     <section
       id={id}
       data-panel
-      className={`relative isolate shrink-0 border-rule px-4 py-16 sm:px-8 lg:flex lg:h-full lg:flex-col lg:justify-center-safe lg:overflow-y-auto lg:border-l lg:px-14 lg:pt-10 lg:pb-20 ${className}`}
+      style={{ "--n": n } as React.CSSProperties}
+      className={`relative isolate shrink-0 border-rule px-4 py-16 sm:px-8 lg:flex lg:h-full lg:w-screen lg:flex-col lg:justify-center-safe lg:overflow-hidden lg:border-l lg:px-14 lg:pt-10 lg:pb-[4.75rem] ${className}`}
     >
       {numeral && (
         <span
           aria-hidden
-          data-parallax="-0.3"
+          data-parallax
           className="pointer-events-none absolute right-6 bottom-6 -z-10 hidden font-serif text-[clamp(14rem,30vh,24rem)] leading-none font-bold text-ink/[0.045] select-none lg:block"
         >
           {numeral}
@@ -52,7 +65,7 @@ export default function Home() {
   return (
     <HorizontalScroll sections={sections}>
       {/* I. Hero */}
-      <Panel id="top" className="lg:w-screen lg:border-l-0">
+      <Panel id="top" n={0} className="lg:border-l-0">
         <div className="mx-auto grid max-w-7xl items-center gap-8 lg:grid-cols-[1.1fr_0.9fr]">
           <div>
             <Kicker>An atlas of peace · Updated {lastUpdated}</Kicker>
@@ -78,7 +91,7 @@ export default function Home() {
               </Link>
             </div>
           </div>
-          <div data-parallax="0.12">
+          <div data-parallax="soft">
             <Image
               src="/images/home-page-illustration.png"
               alt="Collage of a white dove in flight over newspaper headlines about war"
@@ -98,8 +111,8 @@ export default function Home() {
       </Panel>
 
       {/* II. The record */}
-      <Panel id="record" numeral="I" className="lg:w-[min(80rem,100vw)]">
-        <div className="grid gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
+      <Panel id="record" n={1} numeral="I">
+        <div className="mx-auto grid w-full max-w-7xl gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
           <div>
             <Kicker>I. The record</Kicker>
             <h2 className="mt-3 font-serif text-(length:--text-heading) font-bold leading-tight text-ink">
@@ -147,30 +160,32 @@ export default function Home() {
         </div>
       </Panel>
 
-      {/* III. Themes */}
-      <Panel id="themes" numeral="II" className="bg-card/60 lg:w-[42rem]">
-        <BarSection
-          kicker="II. Patterns"
-          title="What had to be resolved"
-          blurb="The same peacebuilding tools appear across very different kinds of conflict. Browse the collection through the recurring themes behind each one."
-          rows={facets.theme}
-          facet="theme"
-        />
-      </Panel>
-
-      {/* IV. Methods */}
-      <Panel id="methods" numeral="III" className="bg-card/60 lg:w-[46rem]">
-        <BarSection
-          kicker="III. Methods"
-          title="How peace was made"
-          blurb="The initiatives that ended, reduced or prevented each conflict. Many cases relied on more than one."
-          rows={facets.initiative}
-          facet="initiative"
-        />
+      {/* III. Patterns and methods */}
+      <Panel id="themes" n={2} numeral="II" className="bg-card/60">
+        <div className="mx-auto grid w-full max-w-7xl gap-16 lg:grid-cols-2">
+          <div>
+            <BarSection
+              kicker="II. Patterns"
+              title="What had to be resolved"
+              blurb="The same peacebuilding tools appear across very different kinds of conflict. Browse the collection through the recurring themes behind each one."
+              rows={facets.theme}
+              facet="theme"
+            />
+          </div>
+          <div id="methods">
+            <BarSection
+              kicker="III. Methods"
+              title="How peace was made"
+              blurb="The initiatives that ended, reduced or prevented each conflict. Many cases relied on more than one."
+              rows={facets.initiative}
+              facet="initiative"
+            />
+          </div>
+        </div>
       </Panel>
 
       {/* V. Atlas */}
-      <Panel id="atlas" className="lg:w-screen lg:overflow-hidden lg:pb-18">
+      <Panel id="atlas" n={3} className="lg:pb-18">
         <div className="mx-auto flex w-full max-w-[110rem] flex-col lg:min-h-0 lg:flex-1">
           <div className="flex flex-wrap items-end justify-between gap-4">
             <div>
@@ -194,25 +209,32 @@ export default function Home() {
         </div>
       </Panel>
 
-      {/* VI. Coda */}
-      <Panel id="index" numeral="V" className="lg:w-[min(56rem,90vw)]">
-        <Kicker>V. The index</Kicker>
-        <p className="mt-4 font-serif text-[clamp(2.75rem,7vw,5.5rem)] leading-[0.95] font-bold text-ink">
-          <SplitWords text="Every case is a lesson in how." />
-        </p>
-        <p data-reveal style={{ "--d": 400 } as React.CSSProperties} className="mt-6 max-w-xl text-(length:--text-body) leading-relaxed">
-          Read the full index: {stats.total} cases you can search, filter by region, theme and method, and sort by
-          date or country.
-        </p>
-        <div data-reveal style={{ "--d": 550 } as React.CSSProperties} className="mt-8">
-          <Link
-            href="/cases"
-            className="group inline-flex items-center gap-3 bg-accent px-6 py-4 text-(length:--text-body) text-paper transition-colors hover:bg-ink"
-          >
-            Browse the index
-            <span className="transition-transform group-hover:translate-x-1">→</span>
-          </Link>
+      {/* V. Coda */}
+      <Panel id="index" n={4} numeral="V">
+        <div className="mx-auto w-full max-w-5xl">
+          <Kicker>V. The index</Kicker>
+          <p className="mt-4 font-serif text-[clamp(2.75rem,7vw,5.5rem)] leading-[0.95] font-bold text-ink">
+            <SplitWords text="Every case is a lesson in how." />
+          </p>
+          <p data-reveal style={{ "--d": 400 } as React.CSSProperties} className="mt-6 max-w-xl text-(length:--text-body) leading-relaxed">
+            Read the full index: {stats.total} cases you can search, filter by region, theme and method, and sort by
+            date or country.
+          </p>
+          <div data-reveal style={{ "--d": 550 } as React.CSSProperties} className="mt-8">
+            <Link
+              href="/cases"
+              className="group inline-flex items-center gap-3 bg-accent px-6 py-4 text-(length:--text-body) text-paper transition-colors hover:bg-ink"
+            >
+              Browse the index
+              <span className="transition-transform group-hover:translate-x-1">→</span>
+            </Link>
+          </div>
         </div>
+        {/* Stands in for the site footer, which the horizontal layout hides. */}
+        <p className="kicker absolute bottom-20 left-14 hidden items-center gap-3 lg:flex">
+          <Image src="/images/bird-black.svg" alt="" width={36} height={23} />
+          How We Stopped War · {stats.total} cases since {stats.firstYear} · Map data © Natural Earth
+        </p>
       </Panel>
     </HorizontalScroll>
   );
@@ -250,7 +272,7 @@ function BarSection({
           <li key={label}>
             <Link
               href={filterHref(facet, label)}
-              className="group relative grid grid-cols-[1fr_auto] items-baseline gap-x-4 pt-2.5 pb-3 lg:pt-[clamp(0.3rem,1vh,0.6rem)] lg:pb-[clamp(0.45rem,1.2vh,0.75rem)]"
+              className="group relative grid grid-cols-[1fr_auto] items-baseline gap-x-4 pt-2.5 pb-3 lg:pt-[clamp(0.2rem,0.7vh,0.6rem)] lg:pb-[clamp(0.35rem,1vh,0.75rem)]"
             >
               <span className="text-(length:--text-body-sm) text-ink transition-colors group-hover:text-accent">{label}</span>
               <span className="font-serif text-xl font-bold leading-none text-ink">{n}</span>

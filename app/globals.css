@@ -226,6 +226,45 @@ body::before {
 }
 .js [data-reveal="rule"].is-in { transform: scaleX(1); }
 
+/* ---- Horizontal pager (homepage, wide screens) ----------------------------- */
+
+:root {
+  --slide-ease: cubic-bezier(0.77, 0, 0.18, 1);
+}
+
+@media (min-width: 1024px) {
+  html.pager,
+  html.pager body {
+    height: 100%;
+    overflow: hidden;
+  }
+  /* The last panel carries the footer content instead. */
+  html.pager .site-footer {
+    display: none;
+  }
+  .pager-track {
+    transform: translate3d(calc(var(--index, 0) * -100vw), 0, 0);
+    transition: transform 1s var(--slide-ease);
+    will-change: transform;
+  }
+  /* Background numerals lag behind the slide for depth. */
+  [data-panel] [data-parallax] {
+    transform: translate3d(calc((var(--n) - var(--index, 0)) * 35vw), 0, 0);
+    transition: transform 1s var(--slide-ease);
+  }
+  [data-panel] [data-parallax="soft"] {
+    transform: translate3d(calc((var(--n) - var(--index, 0)) * 12vw), 0, 0);
+  }
+  .pager-progress {
+    transition: transform 1s var(--slide-ease);
+  }
+}
+
+.no-transition,
+.no-transition * {
+  transition: none !important;
+}
+
 @keyframes nudge {
   0%, 100% { transform: translateX(0); }
   50% { transform: translateX(0.5rem); }
@@ -242,4 +281,9 @@ body::before {
     transition: none !important;
   }
   .nudge { animation: none; }
+  .pager-track,
+  [data-panel] [data-parallax],
+  .pager-progress {
+    transition: none !important;
+  }
 }

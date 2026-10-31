@@ -4,7 +4,7 @@ import { stats } from "@/lib/cases";
 
 export function SiteFooter() {
   return (
-    <footer className="mt-24 bg-ink text-paper/80">
+    <footer className="site-footer mt-24 bg-ink text-paper/80">
       <div className="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:grid-cols-[1fr_auto] sm:px-8">
         <div className="max-w-md">
           <div className="flex items-center gap-3">

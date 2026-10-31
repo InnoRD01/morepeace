@@ -48,9 +48,10 @@ and any static host can serve it.
 | `data/cases.json` | The case data |
 | `scripts/clean-data.py` | Rebuilds `data/cases.json` from the original site's data |
 
-On screens 1024px and wider the homepage scrolls horizontally: `components/horizontal-scroll.tsx`
-pins the panels and moves them sideways as you scroll (wheel, trackpad swipe, ←/→ keys, or the
-section rail). Narrower screens get the same panels stacked vertically.
+On screens 1024px and wider the homepage is a horizontal pager (`components/horizontal-scroll.tsx`):
+each section fills the screen, and one wheel flick, swipe, arrow key or rail click slides to the next.
+The page itself never scrolls vertically, and nothing inside a panel scrolls; the atlas case list is
+paged instead. Narrower screens get the same panels stacked vertically.
 
 Text and sections animate in as they enter view: add `data-reveal` (or `data-reveal="words" | "bars" |
 "rule" | "fade"`) to an element and `components/reveal.tsx` does the rest. All motion is disabled for

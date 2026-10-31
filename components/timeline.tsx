@@ -14,8 +14,8 @@ export function Timeline({ filters, setFilters }: { filters: Filters; setFilters
 
   return (
     <div className="paper border border-rule px-3 pt-3 pb-2 sm:px-4">
-      <div className="flex items-baseline justify-between gap-3">
-        <p className="kicker">Conflicts ended or contained, by decade</p>
+      <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+        <p className="kicker">Ended or contained, by decade</p>
         <p className="flex items-center gap-3 text-(length:--text-caption) text-muted">
           <span className="flex items-center gap-1.5"><span className="size-2.5 rounded-full bg-lasting" /> Lasting</span>
           <span className="flex items-center gap-1.5"><span className="size-2.5 rounded-full bg-limited" /> Limited</span>
