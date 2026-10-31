@@ -15,13 +15,26 @@ A redesign and rebuild of [how-we-stopped-war-two.vercel.app](https://how-we-sto
 ```bash
 npm install
 npm run dev        # http://localhost:3000
-npm run build      # production build
+npm run build      # static site in out/
 npm run typecheck
 ```
 
 `predev`/`prebuild` copy MapLibre's web worker into `public/`. It's generated, so it's git-ignored.
 
-Deploys to Vercel as-is (framework preset: Next.js).
+## Deploy
+
+The site is a static export (`output: "export"`): `npm run build` writes plain HTML, CSS and JS to `out/`,
+and any static host can serve it.
+
+**Cloudflare Pages:** under *Settings → Build*, set:
+
+| Setting | Value |
+| --- | --- |
+| Framework preset | None |
+| Build command | `npm run build` |
+| Build output directory | `out` |
+
+`wrangler.toml` also sets the output directory, and `.node-version` pins Node 22 (Next.js needs ≥ 20.9).
 
 ## Structure
 
