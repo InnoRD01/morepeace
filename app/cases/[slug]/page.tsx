@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ImpactDot } from "@/components/filter-bar";
 import { Locator } from "@/components/locator";
+import { SplitWords } from "@/components/reveal";
 import { cases, filterHref, formatPeriod, getCase, relatedCases, type FacetKey } from "@/lib/cases";
 
 type Params = { params: Promise<{ slug: string }> };
@@ -53,20 +54,24 @@ export default async function CasePage({ params }: Params) {
 
       <header className="mt-6 grid gap-8 border-b border-ink pb-10 lg:grid-cols-[1fr_15rem] lg:items-end">
         <div>
-          <h1 className="font-serif text-[clamp(2.25rem,5.5vw,4.25rem)] font-bold leading-[0.98] text-ink">{c.title}</h1>
-          <p className="mt-4 flex items-center gap-2 text-(length:--text-body-sm) text-muted">
+          <h1 className="font-serif text-[clamp(2.25rem,5.5vw,4.25rem)] font-bold leading-[0.98] text-ink">
+            <SplitWords text={c.title} />
+          </h1>
+          <p data-reveal style={{ "--d": 400 } as React.CSSProperties} className="mt-4 flex items-center gap-2 text-(length:--text-body-sm) text-muted">
             <ImpactDot impact={c.impact} />
             {formatPeriod(c)} · {c.location}
           </p>
         </div>
-        <Locator lat={c.lat} lng={c.lng} label={c.location} />
+        <div data-reveal="fade" style={{ "--d": 300 } as React.CSSProperties}>
+          <Locator lat={c.lat} lng={c.lng} label={c.location} />
+        </div>
       </header>
 
       <div className="grid gap-12 py-12 lg:grid-cols-[1fr_20rem]">
         <div>
           <p className="kicker">Summary</p>
           {c.summary ? (
-            <p className="mt-4 max-w-3xl font-serif text-[clamp(1.4rem,2.6vw,1.9rem)] leading-snug text-ink">
+            <p data-reveal style={{ "--d": 500 } as React.CSSProperties} className="mt-4 max-w-3xl font-serif text-[clamp(1.4rem,2.6vw,1.9rem)] leading-snug text-ink">
               {c.summary}
             </p>
           ) : (
@@ -75,14 +80,14 @@ export default async function CasePage({ params }: Params) {
             </p>
           )}
 
-          <div className="mt-12 grid gap-8 sm:grid-cols-3">
+          <div data-reveal style={{ "--d": 650 } as React.CSSProperties} className="mt-12 grid gap-8 sm:grid-cols-3">
             <TagGroup title="Themes" k="theme" values={c.themes} />
             <TagGroup title="Type of conflict" k="type" values={c.conflictTypes} />
             <TagGroup title="Initiatives" k="initiative" values={c.initiatives} />
           </div>
         </div>
 
-        <aside className="paper h-fit border border-rule p-5">
+        <aside data-reveal style={{ "--d": 600 } as React.CSSProperties} className="paper h-fit border border-rule p-5">
           <p className="kicker">At a glance</p>
           <dl className="mt-3 divide-y divide-rule">
             {facts.map(([k, v]) => (
@@ -98,7 +103,7 @@ export default async function CasePage({ params }: Params) {
       {related.length > 0 && (
         <section className="rule-double pt-6">
           <h2 className="kicker">Related cases</h2>
-          <ul className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+          <ul data-reveal className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
             {related.map((r) => (
               <li key={r.slug}>
                 <Link href={`/cases/${r.slug}`} className="paper group block h-full border border-rule p-4 hover:border-ink">

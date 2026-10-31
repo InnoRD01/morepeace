@@ -40,13 +40,21 @@ and any static host can serve it.
 
 | Path | What |
 | --- | --- |
-| `app/page.tsx` | Home: hero, key figures, intro, themes and methods, the atlas |
+| `app/page.tsx` | Home: horizontal panels for the hero, the record, themes, methods, the atlas and the index |
 | `app/cases/page.tsx` | Searchable, filterable, sortable index of every case |
 | `app/cases/[slug]/page.tsx` | Case page: summary, facts, classification, locator globe, related cases |
 | `components/atlas*.tsx` | Map, filter bar, timeline and result list |
 | `lib/cases.ts` | Data access, facets, filtering, stats |
 | `data/cases.json` | The case data |
 | `scripts/clean-data.py` | Rebuilds `data/cases.json` from the original site's data |
+
+On screens 1024px and wider the homepage scrolls horizontally: `components/horizontal-scroll.tsx`
+pins the panels and moves them sideways as you scroll (wheel, trackpad swipe, ←/→ keys, or the
+section rail). Narrower screens get the same panels stacked vertically.
+
+Text and sections animate in as they enter view: add `data-reveal` (or `data-reveal="words" | "bars" |
+"rule" | "fade"`) to an element and `components/reveal.tsx` does the rest. All motion is disabled for
+visitors who turn on their device's reduce-motion setting.
 
 Filters live in the URL query string (`/cases?theme=Civil+wars&impact=Lasting`), so any filtered
 view can be shared or bookmarked.

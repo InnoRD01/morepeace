@@ -21,7 +21,7 @@ export function Timeline({ filters, setFilters }: { filters: Filters; setFilters
           <span className="flex items-center gap-1.5"><span className="size-2.5 rounded-full bg-limited" /> Limited</span>
         </p>
       </div>
-      <div className="mt-3 flex h-24 items-end gap-1 sm:gap-2" role="group" aria-label="Filter by decade">
+      <div className="mt-3 flex h-24 items-end gap-1 sm:gap-2 lg:h-[clamp(3rem,9vh,6rem)]" role="group" aria-label="Filter by decade">
         {bins.map(({ p, lasting, total }) => {
           const selected = filters.period === p;
           const dimmed = filters.period && !selected;

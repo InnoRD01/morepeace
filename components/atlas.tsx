@@ -14,11 +14,11 @@ export function Atlas() {
   const [active, setActive] = useState<string | null>(null);
 
   return (
-    <div className="mt-8 space-y-3">
+    <div className="mt-6 space-y-3 lg:mt-4 lg:flex lg:min-h-0 lg:flex-1 lg:flex-col lg:gap-3 lg:space-y-0">
       <FilterBar filters={filters} setFilters={setFilters} clear={clear} count={results.length} hide={["period"]} />
 
-      <div className="grid gap-3 lg:grid-cols-[1fr_22rem]">
-        <div className="relative h-[clamp(22rem,60vh,40rem)] overflow-hidden border border-rule lg:h-[clamp(30rem,72vh,48rem)]">
+      <div className="grid gap-3 lg:min-h-0 lg:flex-1 lg:grid-cols-[1fr_22rem]">
+        <div className="relative h-[clamp(22rem,60vh,40rem)] overflow-hidden border border-rule lg:h-full">
           <AtlasMap cases={results} activeSlug={active} onActivate={setActive} />
           <div className="pointer-events-none absolute inset-0 z-10 bg-(image:--noise) bg-size-[180px] opacity-25 mix-blend-multiply" />
           <div className="paper absolute bottom-3 left-3 z-10 space-y-1 border border-rule px-3 py-2 text-(length:--text-caption) text-body">
@@ -29,7 +29,7 @@ export function Atlas() {
 
         <ol
           aria-label="Matching cases"
-          className="paper max-h-[28rem] divide-y divide-rule overflow-y-auto border border-rule lg:max-h-[clamp(30rem,72vh,48rem)]"
+          className="paper max-h-[28rem] divide-y divide-rule overflow-y-auto border border-rule lg:h-full lg:max-h-none"
         >
           {results.length === 0 && (
             <li className="p-6 text-(length:--text-body-sm)">

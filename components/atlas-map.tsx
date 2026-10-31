@@ -47,6 +47,8 @@ export function AtlasMap({ cases, activeSlug, onActivate }: Props) {
         renderWorldCopies: false,
         dragRotate: false,
         pitchWithRotate: false,
+        // Plain wheel/one-finger gestures scroll the page; Ctrl/⌘+wheel or two fingers move the map.
+        cooperativeGestures: true,
         attributionControl: { compact: true, customAttribution: "Boundaries © Natural Earth" },
         style: {
           version: 8,
@@ -73,7 +75,6 @@ export function AtlasMap({ cases, activeSlug, onActivate }: Props) {
         },
       });
       map.addControl(new ml.NavigationControl({ showCompass: false }), "top-right");
-      map.scrollZoom.setWheelZoomRate(1 / 300);
       map.on("load", () => setReady(true));
       mapRef.current = map;
     });

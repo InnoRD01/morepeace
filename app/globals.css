@@ -36,6 +36,8 @@ html {
 }
 
 body {
+  /* Elements waiting to slide in from the side must not widen the page. */
+  overflow-x: clip;
   background: var(--color-paper);
   color: var(--color-body);
   font-family: var(--font-sans);
@@ -89,6 +91,10 @@ body::before {
 :focus-visible {
   outline: 2px solid var(--color-accent);
   outline-offset: 2px;
+}
+/* Panels take focus when opened via #hash links; don't outline the whole screen. */
+[data-panel]:focus {
+  outline: none;
 }
 
 /* ---- Map ------------------------------------------------------------------ */
@@ -157,4 +163,83 @@ body::before {
 .maplibregl-ctrl-attrib {
   background: rgb(255 253 249 / 0.8) !important;
   font-size: 10px;
+}
+
+/* ---- Motion ---------------------------------------------------------------
+   Elements marked data-reveal start hidden and animate in when RevealObserver
+   adds .is-in. Only applies when JS is running (the .js class), so content is
+   never hidden without it. */
+
+:root {
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.js [data-reveal] {
+  opacity: 0;
+  transform: translateY(1.5rem);
+  transition:
+    opacity 0.9s var(--ease-out),
+    transform 0.9s var(--ease-out);
+  transition-delay: calc(var(--d, 0) * 1ms);
+}
+.js [data-reveal="fade"] { transform: none; }
+.js [data-reveal="left"] { transform: translateX(3rem); }
+.js [data-reveal].is-in {
+  opacity: 1;
+  transform: none;
+}
+
+/* Headings: each word rises out of its own clipped line box. */
+.js [data-reveal="words"] { opacity: 1; transform: none; }
+[data-reveal="words"] .w {
+  display: inline-block;
+  overflow: hidden;
+  padding-bottom: 0.12em;
+  margin-bottom: -0.12em;
+  vertical-align: top;
+}
+[data-reveal="words"] .w > span { display: inline-block; }
+.js [data-reveal="words"] .w > span {
+  transform: translateY(110%) rotate(4deg);
+  transform-origin: left bottom;
+  transition: transform 1s var(--ease-out);
+  transition-delay: calc(var(--i) * 70ms + var(--d, 0) * 1ms);
+}
+.js [data-reveal="words"].is-in .w > span { transform: none; }
+
+/* Bar lists: bars grow in sequence. */
+.js [data-reveal="bars"] { opacity: 1; transform: none; }
+.js [data-reveal="bars"] .bar {
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 1.1s var(--ease-out);
+  transition-delay: calc(var(--i) * 55ms + 150ms);
+}
+.js [data-reveal="bars"].is-in .bar { transform: scaleX(1); }
+
+/* Rules draw across. */
+.js [data-reveal="rule"] {
+  opacity: 1;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 1.2s var(--ease-out);
+}
+.js [data-reveal="rule"].is-in { transform: scaleX(1); }
+
+@keyframes nudge {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(0.5rem); }
+}
+.nudge { animation: nudge 1.6s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .js [data-reveal],
+  .js [data-reveal] .w > span,
+  .js [data-reveal] .bar {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+  .nudge { animation: none; }
 }
